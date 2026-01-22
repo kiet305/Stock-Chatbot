@@ -1,0 +1,1731 @@
+﻿ticker_id,name,trading_floor,is_vn30,is_vn100,is_hnx30,industry,subindustry
+YTC,XNK Y tế TP.HCM,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+YEG,Tập đoàn Yeah1,HSX,False,False,False,Truyền thông,Truyền thông
+YBM,Khoáng sản CN Yên Bái,HSX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+YBC,Xi măng và Khoáng sản Yên Bái,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+XPH,Xà phòng Hà Nội,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+XMP,Thủy điện Xuân Minh,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+XMD,Xuân Mai - Đạo Tú,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+XMC,Bê tông Xuân Mai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+XLV,XL và DV Sông Đà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+XHC,Nội thất Xuân Hòa,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+XDH,Đầu tư XD Dân dụng Hà Nội,UPCOM,False,False,False,Bất động sản,Bất động sản
+XDC,Xây dựng Công trình Tân Cảng,DELISTED,False,False,False,,
+X77,Thành An 77,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+X26,Công ty 26,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+X20,May mặc X20,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+WTC,Vận tải thủy Vinacomin,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+WSS,Chứng khoán Phố Wall,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+WSB,Bia Sài Gòn - Miền Tây,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+WCS,Bến xe Miền Tây,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VXT,Kho vận và DV Thương mại,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VXP,Thuốc Thú y Trung ương VETVACO,UPCOM,False,False,False,Hóa chất,Hóa chất
+VXB,VLXD Bến Tre,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VWS,Nước và Môi trường VN,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VW3,VIWASEEN.3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VVS,Đầu tư Phát triển Máy Việt Nam,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+VVN,XD Công nghiệp Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VUA,Chứng khoán Stanley Brothers,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VTZ,Nhựa Việt Thành,HNX,False,False,False,Hóa chất,Hóa chất
+VTX,Vận tải Đa phương thức,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VTV,Năng lượng và Môi trường VICEM,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VTS,Gạch Ngói Từ Sơn,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VTR,Du lịch Vietravel,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VTQ,Việt Trung Quảng Bình,UPCOM,False,False,False,Hóa chất,Hóa chất
+VTP,Bưu chính Viettel,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VTO,VITACO,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VTM,Đưa đón thợ mỏ - Vinacomin,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VTL,Vang Thăng Long,DELISTED,False,False,False,,
+VTK,Tư vấn thiết kế Viettel,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VTJ,TM và Đầu tư VINATABA,HNX,False,False,False,Hàng cá nhân & Gia dụng,Thuốc lá
+VTI,Sản xuất - XNK Dệt may,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+VTH,Dây cáp điện Việt Thái,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+VTG,Du lịch tỉnh BR-VT,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VTE,VINACAP Kim Long,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+VTD,Du lịch Vietourist,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VTC,Viễn thông VTC,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+VTB,Viettronics Tân Bình,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+VTA,Gạch men VITALY,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VST,Vận tải và Thuê Tàu biển Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VSP,ShinPetrol,DELISTED,False,False,False,,
+VSN,VN Kỹ Nghệ Súc Sản (VISSAN),UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VSM,Container Miền Trung,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VSI,Đầu tư và Xây dựng Cấp thoát nước,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+VSG,Container Phía Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VSF,Vinafood 2,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VSE,DV Đường cao tốc Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VSC,VICONSHIP,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VSA,Đại lý Hàng hải VN,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VRG,PT Đô thị và KCN Cao su VN,UPCOM,False,False,False,Bất động sản,Bất động sản
+VRE,Vincom Retail,HSX,True,True,False,Bất động sản,Bất động sản
+VRC,Bất động sản và Đầu tư VRC,HSX,False,False,False,Bất động sản,Bất động sản
+VQC,Giám định Vinaconmin,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VPX,Chứng khoán VPBank,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VPW,Cấp thoát nước số 1 Vĩnh Phúc,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VPS,Thuốc sát trùng Việt Nam,HSX,False,False,False,Hóa chất,Hóa chất
+VPR,VINAPRINT,UPCOM,False,False,False,Truyền thông,Truyền thông
+VPL,Vinpearl ,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VPI,Đầu tư Văn Phú - Invest,HSX,False,True,False,Bất động sản,Bất động sản
+VPH,Vạn Phát Hưng,HSX,False,False,False,Bất động sản,Bất động sản
+VPG,Đầu tư TMại XNK Việt Phát,HSX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+VPD,Phát triển Điện lực Việt Nam,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+VPC,V- Power,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VPB,VPBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+VPA,Vận tải Hóa dầu VP,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VOS,Vận tải Biển Việt Nam,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VOC,Dầu thực vật Việt Nam,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VNZ,Tập đoàn VNG,UPCOM,False,False,False,Truyền thông,Truyền thông
+VNY,Thuốc thú y Trung ương I,UPCOM,False,False,False,Hóa chất,Hóa chất
+VNX,QC và Hội chợ Thương mại,UPCOM,False,False,False,Truyền thông,Truyền thông
+VNT,Vận tải ngoại thương,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VNS,Ánh Dương Việt Nam,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VNR,Tái bảo hiểm Quốc gia,HNX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+VNP,Nhựa Việt Nam,UPCOM,False,False,False,Hóa chất,Hóa chất
+VNM,VINAMILK,HSX,True,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VNL,Vinalink Logistics,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VNI,ĐT BĐS Việt Nam,UPCOM,False,False,False,Bất động sản,Bất động sản
+VNH,Đầu tư Việt Việt Nhật,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VNG,DL Thành Thành Công,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VNF,VINAFREIGHT,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VNE,Xây dựng điện Việt Nam,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VND,Chứng khoán VNDIRECT,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+VNC,VINACONTROL,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VNB,Sách Việt Nam,UPCOM,False,False,False,Truyền thông,Truyền thông
+VNA,Vận tải biển Vinaship,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VMT,Giao nhận Vận tải Miền Trung,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VMS,Phát triển Hàng Hải,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VMK,Vimarko,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VMI,KS và Đầu tư VISACO,DELISTED,False,False,False,,
+VMG,Vimexco Gas,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VMD,Y Dược phẩm Vimedimex,HSX,False,False,False,Y tế,Dược phẩm
+VMC,VIMECO,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VMA,CN Ô tô - Vinacomin,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+VLW,Cấp nước Vĩnh Long,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VLS,Sản xuất Thép Việt Long,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+VLP,Công trình Công cộng Vĩnh Long,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VLG,VIMC Logistics,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VLF,Lương thực Vĩnh Long,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VLC,Chăn nuôi Việt Nam,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VLB,VLXD Biên Hòa,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VLA,PT Công nghệ Văn Lang,HNX,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+VKP,Nhựa Tân Hóa,UPCOM,False,False,False,Hóa chất,Hóa chất
+VKD,Nước khoáng Khánh Hòa,DELISTED,False,False,False,,
+VKC,VKC Holdings,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+VJC,Vietjet Air,HSX,True,True,False,Du lịch và Giải trí,Du lịch & Giải trí
+VIX,Chứng khoán VIX,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+VIW,Đầu tư nước và môi trường VN - Viwaseen,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VIT,Viglacera Tiên Sơn,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VIS,Thép Việt Ý,DELISTED,False,False,False,,
+VIR,Du lịch Vũng Tàu,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+VIP,Vận tải Xăng dầu VIPCO,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VIN,Kho vận ngoại thương VN,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VIM,Khoáng sản Viglacera,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+VIH,Viglacera Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VIG,Chứng khoán Đầu tư Tài chính Việt Nam,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VIF,Lâm nghiệp Việt Nam,HNX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+VIE,CN Viễn thông VI TE CO,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+VID,Viễn Đông,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+VIC,VinGroup,HSX,True,True,False,Bất động sản,Bất động sản
+VIB,VIBBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+VHM,Vinhomes,HSX,True,True,False,Bất động sản,Bất động sản
+VHL,Viglacera Hạ Long,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VHI,,DELISTED,False,False,False,,
+VHH,Kinh doanh nhà Thành Đạt,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VHG,Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+VHF,Chế biến lương thực Vĩnh Hà,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VHE,Dược liệu và Thực phẩm VN,HNX,False,False,False,Y tế,Dược phẩm
+VHD,PT Nhà và Đô thị Vinaconex,UPCOM,False,False,False,Bất động sản,Bất động sản
+VHC,Thủy sản Vĩnh Hoàn,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+VGV,Tư vấn Xây dựng Việt Nam,UPCOM,False,False,False,Bất động sản,Bất động sản
+VGT,VINATEX,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+VGS,Ống thép Việt Đức,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+VGR,Cảng xanh VIP,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VGP,Cảng Rau Quả,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VGL,Mạ kẽm công nghiệp Vingal-Vnsteel,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+VGI,Đầu tư Quốc tế Viettel,UPCOM,False,False,False,Viễn thông,Viễn thông di động
+VGG,May Việt Tiến,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+VGC,Tổng Công ty Viglacera,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VFS,Chứng khoán Nhất Việt,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VFR,Vận tải Vietfracht,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VFG,Khử trùng Việt Nam,HSX,False,False,False,Hóa chất,Hóa chất
+VFC,Vận tải biển VINAFCO,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+VET,Thuốc thú y trung ương Navetco,UPCOM,False,False,False,Hóa chất,Hóa chất
+VES,MÊ CA VNECO,UPCOM,False,False,False,Bất động sản,Bất động sản
+VEF,Hội chợ Triển lãm Việt Nam,UPCOM,False,False,False,Bất động sản,Bất động sản
+VEC,Điện tử và Tin học VN,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+VEA,Máy động lực và Máy NN,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+VE9,VNECO 9,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VE8,Xây dựng Điện Vneco 8,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VE4,Xây dựng điện VNECO4,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VE3,Xây dựng điện VNECO 3,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VE2,Xây dựng Điện VNECO 2,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VE1,VNECO 1,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VDT,Lưới thép Bình Tây,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+VDS,Chứng khoán Rồng Việt,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VDP,Dược phẩm VIDIPHA,HSX,False,False,False,Y tế,Dược phẩm
+VDN,Vinatex Đà Nẵng,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+VDM,Viện Nghiên cứu Dệt may,DELISTED,False,False,False,,
+VDL,Thực phẩm Lâm Đồng,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+VDG,Vạn Đạt Group,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+VDB,Vận tải và CB Than Đông Bắc,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+VCX,Xi măng Yên Bình,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VCW,Đầu tư Nước sạch Sông Đà,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VCT,Tư vấn XD Vinaconex,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+VCS,VICOSTONE,HNX,False,False,True,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VCR,Vinaconex - ITC,UPCOM,False,False,False,Bất động sản,Bất động sản
+VCP,Xây dựng và Năng lượng VCP,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+VCM,BV Life,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+VCK,Chứng Khoán VPS,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+VCI,Chứng khoán Vietcap,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+VCG,VINACONEX,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VCF,VinaCafé Biên Hòa,HSX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+VCE,Xây lắp Môi trường,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VCC,Vinaconex 25,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VCB,Vietcombank,HSX,True,True,False,Ngân hàng,Ngân hàng
+VCA,Thép VICASA - VNSTEEL,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+VC9,Xây dựng số 9,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VC7,BGI Group,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VC6,Visicons,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VC5,Xây dựng Số 5,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VC3,Tập đoàn Nam Mê Kông,HNX,False,False,True,Bất động sản,Bất động sản
+VC2,Đầu tư và Xây dựng VINA2,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VC1,Xây dựng số 1,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+VBH,Điện tử Bình Hòa,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+VBG,Địa chất Việt Bắc - TKV,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+VBC,Nhựa - Bao bì Vinh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+VBB,VietBank,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+VAV,VIWACO,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+VAT,Viễn thông Vạn Xuân,DELISTED,False,False,False,,
+VAF,Phân lân Văn Điển,HSX,False,False,False,Hóa chất,Hóa chất
+VAB,Ngân hàng Việt Á,HSX,False,False,False,Ngân hàng,Ngân hàng
+V21,Vinaconex 21,HNX,False,False,False,Bất động sản,Bất động sản
+V15,Vinaconex 15,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+V12,VINACONEX 12,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+V11,VINACONEX No11,DELISTED,False,False,False,,
+UXC,Chế biến Thủy sản Út Xi,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+UTT,Môi trường Đô thị Thanh Trì,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+USD,Công trình Đô thị Sóc Trăng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+USC,Khảo sát và Xây dựng - USCO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+UPH,Dược phẩm TW25,UPCOM,False,False,False,Y tế,Dược phẩm
+UPC,Cây xanh Vũng Tàu,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+UNI,Đầu tư và Phát triển Sao Mai Việt,HNX,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+UMC,Công trình đô thị Nam Định,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+UIC,Phát triển Nhà và Đô thị IDICO,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+UEM,Cơ điện Uông Bí - Vinacomin,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+UDL,Đô thị và Môi trường Đắk Lắk,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+UDJ,Becamex UDJ,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+UDC,Đầu tư Xây dựng UDCons,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+UCT,Đô thị Cần Thơ,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+TYA,Dây và Cáp điện Taya,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+TXM,Thạch cao Xi măng,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TW3,Dược TW3,UPCOM,False,False,False,Y tế,Dược phẩm
+TVW,Cấp thoát nước Trà Vinh,DELISTED,False,False,False,,
+TVT,May Việt Thắng,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TVS,Chứng khoán Thiên Việt,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TVP,Dược phẩm TV.Pharm,DELISTED,False,False,False,,
+TVN,Thép Việt Nam,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TVM,Tư vấn đầu tư Mỏ,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+TVH,Tư vấn XD công trình Hàng hải,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TVG,XD Giao thông Vận tải,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TVD,Than Vàng Danh,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+TVC,Tập đoàn Quản lý tài sản T-Corp,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TVB,Chứng khoán T-Cap,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TVA,Sứ Viglacera Thanh Trì,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TV6,Tập đoàn EMA LAND,UPCOM,False,False,False,Bất động sản,Bất động sản
+TV4,Tư vấn XD Điện 4,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+TV3,Tư vấn XD điện 3,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TV2,Tư vấn XD Điện 2,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+TV1,Tư vấn XD Điện 1,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+TUG,Lai dắt và VT cảng Hải Phòng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TTZ,Xây dựng Tiến Trung,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TTT,Du lịch - Thương Mại Tây Ninh,HNX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+TTS,Cán thép Thái Trung,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TTP,Bao bì nhựa Tân Tiến,DELISTED,False,False,False,,
+TTN,Công nghệ và Truyền thông VN,UPCOM,False,False,False,Viễn thông,Viễn thông cố định
+TTL,TCT Thăng Long,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TTH,TM và DV Tiến Thành,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+TTG,May Thanh Trì,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TTF,Gỗ Trường Thành,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+TTE,ĐT Năng lượng Trường Thịnh,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+TTD,Bệnh viện Tim Tâm Đức,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+TTC,Gạch men Thanh Thanh,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TTB,Tập đoàn Tiến Bộ,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TTA,XD và PT Trường Thành,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+TT6,Tien Thinh Group,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TST,Dịch vụ KT Viễn Thông,UPCOM,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+TSJ,Hanoi Toserco,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+TSG,TTTH Đường sắt Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TSD,Du lịch Trường Sơn Coecco,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+TSC,Kỹ thuật NN Cần Thơ,HSX,False,False,False,Hóa chất,Hóa chất
+TSB,Ắc quy Tia Sáng,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+TSA,Đầu Tư Và Xây Lắp Trường Sơn,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TS5,,DELISTED,False,False,False,,
+TS4,Thủy sản số 4,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TS3,Trường Sơn 532,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TRV,Vận tải Đường sắt,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TRT,CTCP RedstarCera,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TRS,Vận tải và Dịch vụ Hàng Hải,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TRC,Cao su Tây Ninh,HSX,False,False,False,Hóa chất,Hóa chất
+TRA,Traphaco,HSX,False,False,False,Y tế,Dược phẩm
+TR1,Vận Tải 1 Traco,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TQW,Cấp thoát nước Tuyên Quang,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TQN,Thông Quảng Ninh,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+TPS,Bến bãi vận tải Sài Gòn,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+TPP,Nhựa Tân Phú VN,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+TPH,In Sách giáo khoa TP.Hà Nội,DELISTED,False,False,False,,
+TPC,Nhựa Tân Đại Hưng,HSX,False,False,False,Hóa chất,Hóa chất
+TPB,TPBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+TOW,Cấp nước Trà Nóc - Ô Môn,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TOT,Vận tải Transimex,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TOS,Dịch vụ biển Tân Cảng,UPCOM,False,False,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+TOP,Phân phối Top One,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+TNW,Nước sạch Thái Nguyên,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TNV,Xe đạp Thống Nhất,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TNT,Tập đoàn TNT,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TNS,Thép tấm lá Thống Nhất,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TNP,Cảng Thị Nại,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TNM,XNK và XD Công trình,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TNI,Tập đoàn Thành Nam,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+TNH,Tập đoàn Bệnh viện TNH,HSX,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+TNG,Đầu tư và Thương mại TNG,HNX,False,False,True,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TNC,Cao su Thống Nhất,HSX,False,False,False,Hóa chất,Hóa chất
+TNB,Thép Nhà Bè,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TNA,XNK Thiên Nam,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TN1,Rox Key Holdings,HSX,False,False,False,Bất động sản,Bất động sản
+TMX,Thương mại Xi măng,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TMW,Gỗ Tân Mai,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+TMT,Ô tô TMT,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+TMS,Transimex,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TMP,Thủy điện Thác Mơ,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+TMG,Kim loại màu Thái Nguyên - Vimico,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TMC,XNK Thủ Đức,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TMB,Than Miền Bắc - Vinacomin,HNX,False,False,True,Tài nguyên Cơ bản,Khai khoáng
+TLT,Viglacera Thăng long,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TLP,Thương mại XNK Thanh Lễ,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TLI,May Quốc tế Thắng Lợi,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TLH,Thép Tiến Lên,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+TLG,Tập đoàn Thiên Long,HSX,False,True,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+TLD,ĐT XD và PT Đô thị Thăng Long,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TL4,XD Thủy lợi 4,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TKU,Công nghiệp Tung Kuang,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+TKG,SX và T.Mại Tùng Khánh,DELISTED,False,False,False,,
+TKC,Địa ốc Tân Kỷ,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TKA,Bao bì Tân Khánh An,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+TJC,Dịch vụ Vận tải và Thương mại,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TIX,TANIMEX,HSX,False,False,False,Bất động sản,Bất động sản
+TIS,Gang thép Thái Nguyên,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TIP,PT KCN Tín Nghĩa,HSX,False,False,False,Bất động sản,Bất động sản
+TIN,Tài chính Cổ phần Tín Việt,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TIG,Tập đoàn Đầu tư Thăng Long,HNX,False,False,False,Bất động sản,Bất động sản
+TIE,Điện tử TIE,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+TID,Tổng Công ty Tín Nghĩa,UPCOM,False,False,False,Bất động sản,Bất động sản
+THW,Cấp nước Tân Hòa,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+THU,Môi trường và CTĐT Thanh Hóa,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+THT,Than Hà Tu,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+THS,Thanh Hoa Sông Đà,HNX,False,False,False,Bán lẻ,Bán lẻ
+THP,Thủy sản và TMại Thuận Phước,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+THN,Cấp nước Thanh Hóa,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+THM,Tứ Hải Hà Nam,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+THI,Thiết bị điện,DELISTED,False,False,False,,
+THG,XD Tiền Giang,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+THD,Công ty Thaiholdings,HNX,False,False,False,Bất động sản,Bất động sản
+THB,Bia Hà Nội - Thanh Hóa,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+TH1,XNK Tổng hợp 1,UPCOM,False,False,False,Bán lẻ,Phân phối thực phẩm & dược phẩm
+TGP,Cáp Trường Phú,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+TGG,The Golden Group,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TFC,CTCP Trang,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TET,May mặc Miền Bắc,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TEL,Phát triển Công trình Viễn thông,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TEG,TECGROUP,HSX,False,False,False,Bất động sản,Bất động sản
+TED,Thiết kế GTVT,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TEC,Traenco,DELISTED,False,False,False,,
+TDW,Cấp nước Thủ Đức,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TDT,Đầu tư và Phát triển TDT,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TDS,Thép Thủ Đức,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+TDP,Công ty Thuận Đức,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+TDN,Than Đèo Nai,DELISTED,False,False,False,,
+TDM,Nước Thủ Dầu Một,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TDI,Tập đoàn TDI,DELISTED,False,False,False,,
+TDH,Thủ Đức House,HSX,False,False,False,Bất động sản,Bất động sản
+TDG,Đầu tư TDG Global,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TDF,Xây dựng Trung Đô,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TDC,Becamex TDC,HSX,False,False,False,Bất động sản,Bất động sản
+TDB,Thủy điện Định Bình,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+TD6,Than Đèo Nai - Cọc Sáu - TKV,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+TCX,Chứng khoán TCBS,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TCW,Kho Vận Tân Cảng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TCT,Cáp treo Tây Ninh,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+TCR,Gốm sứ TAICERA,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TCO,TCO Holdings,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TCM,Dệt may Thành Công,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+TCL,Tan Cang Logistics,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TCK,COMA,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TCJ,Tô Châu,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TCI,Chứng khoán Thành Công,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+TCH,ĐT DV Tài chính Hoàng Huy,HSX,False,True,False,Bất động sản,Bất động sản
+TCD,Tập đoàn Xây dựng Tracodi,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TCB,Techcombank,HSX,True,True,False,Ngân hàng,Ngân hàng
+TC6,Than Cọc Sáu,DELISTED,False,False,False,,
+TBX,Xi măng Thái Bình,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TBW,Nước sạch Thái Bình,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TBT,XD Công trình GT Bến Tre,DELISTED,False,False,False,,
+TBR,Địa ốc Tân Bình,UPCOM,False,False,False,Bất động sản,Bất động sản
+TBH,Tổng Bách Hóa,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TBD,Thiết bị điện Đông Anh,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+TBC,Thủy điện Thác Bà,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+TB8,SX và KD Vật tư Thiết bị - VVMI,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+TAW,Cấp nước Trung An,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+TAR,Nông nghiệp CN cao Trung An,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+TAP,Đô thị Tân An,DELISTED,False,False,False,,
+TAN,Cà phê Thuận An,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+TAL,Đầu Tư Bất Động Sản Taseco,HSX,False,False,False,Bất động sản,Bất động sản
+TAG,Trần Anh Company,DELISTED,False,False,False,,
+TAC,Dầu Tường An,DELISTED,False,False,False,,
+TAB,Freco Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+TA9,Xây lắp Thành An 96,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TA6,Đầu tư và Xây lắp Thành An 665,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+TA3,ĐT và Xây lắp Thành An 386,DELISTED,False,False,False,,
+T12,,DELISTED,False,False,False,,
+SZL,Sonadezi Long Thành,HSX,False,False,False,Bất động sản,Bất động sản
+SZG,Sonadezi Giang Điền,UPCOM,False,False,False,Bất động sản,Bất động sản
+SZE,Môi trường Sonadezi,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+SZC,Sonadezi Châu Đức,HSX,False,True,False,Bất động sản,Bất động sản
+SZB,Sonadezi Long Bình,HNX,False,False,False,Bất động sản,Bất động sản
+SWC,Đường Sông Miền Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SVT,Công nghệ SG Viễn Đông,HSX,False,False,False,Bán lẻ,Bán lẻ
+SVN,Tập đoàn Vexilla Việt Nam,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SVL,,DELISTED,False,False,False,,
+SVI,Bao bì Biên Hòa,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+SVH,Thủy điện Sông Vàng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SVG,Hơi kỹ nghệ Que hàn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+SVD,Đầu tư & Thương mại Vũ Đăng,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+SVC,SAVICO,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+STW,Cấp nước Sóc Trăng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+STT,Vận chuyển Sài Gòn Tourist,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+STS,Dịch vụ vận tải Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+STP,CN Thương Mại Sông Đà,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+STL,Sông Đà - Thăng Long,UPCOM,False,False,False,Bất động sản,Bất động sản
+STK,Sợi Thế Kỷ,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+STH,STH Holdings,UPCOM,False,False,False,Truyền thông,Truyền thông
+STG,Kho Vận Miền Nam,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+STC,Sách và TB Trường học TP HCM,HNX,False,False,False,Truyền thông,Truyền thông
+STB,Sacombank,HSX,True,True,False,Ngân hàng,Ngân hàng
+ST8,Tập đoàn ST8,HSX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+SSU,Môi trường Đô thị Sóc Sơn,DELISTED,False,False,False,,
+SSN,Thủy sản Sài Gòn,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SSM,Kết cấu Thép VNECO,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+SSI,Chứng khoán SSI,HSX,True,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+SSH,Phát triển Sunshine Homes,UPCOM,False,False,False,Bất động sản,Bất động sản
+SSG,Vận tải Biển Hải Âu,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SSF,Giáo dục G Sài Gòn,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+SSC,Giống cây trồng Miền Nam,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SSB,SeABank,HSX,True,True,False,Ngân hàng,Ngân hàng
+SRT,Vận tải Đường sắt Sài Gòn,DELISTED,False,False,False,,
+SRF,SEAREFICO,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+SRC,Cao su Sao Vàng,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+SRB,SARA,UPCOM,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+SRA,SARA Việt Nam,HNX,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+SQC,Khoáng sản SG-Quy Nhơn,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+SPV,Thủy đặc sản,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SPP,Bao bì Nhựa SG,DELISTED,False,False,False,,
+SPM,S.P.M CORP,HSX,False,False,False,Y tế,Dược phẩm
+SPI,Spiral Galaxy,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+SPH,XNK Thủy sản Hà Nội,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SPD,Thủy sản Miền Trung,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SPC,BV Thực vật Sài Gòn,HNX,False,False,False,Hóa chất,Hóa chất
+SPB,Sợi Phú Bài,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+SPA,Bao bì Sài Gòn,DELISTED,False,False,False,,
+SP2,Thủy điện Sử Pán 2,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SON,,DELISTED,False,False,False,,
+SNZ,SONADEZI,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SNC,Thủy sản Năm Căn,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SMT,SAMETEL,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+SMN,Sách và thiết bị GD miền Nam,HNX,False,False,False,Truyền thông,Truyền thông
+SMC,Đầu tư Thương mại SMC,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+SMB,Bia Sài Gòn - Miền Trung,HSX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SMA,Thiết bị Phụ tùng Sài Gòn,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SLS,Mía đường Sơn La,HNX,False,False,True,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SLD,Địa Ốc Sacom,UPCOM,False,False,False,Bất động sản,Bất động sản
+SKV,NGK Yến sào Khánh Hòa,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SKN,NGK Sanna Khánh Hòa,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SKH,NGK Sanest Khánh Hòa,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SKG,Tàu Cao tốc Superdong,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+SJS,SJ Group,HSX,False,True,False,Bất động sản,Bất động sản
+SJM,Sông Đà 19,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SJG,Tổng Công ty Sông Đà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SJF,Đầu tư Sao Thái Dương,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+SJE,Sông Đà 11,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SJD,Thủy điện Cần Đơn,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SJC,Sông Đà 1.01,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SJ1,Nông nghiệp Hùng Hậu,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SIV,SIVICO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SIP,Đầu tư Sài Gòn VRG,HSX,False,True,False,Bất động sản,Bất động sản
+SII,Hạ tầng Nước Sài Gòn,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+SIG,Đầu tư và Thương mại Sông Đà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SID,Đầu tư PT Sài Gòn Co.op,UPCOM,False,False,False,Bất động sản,Bất động sản
+SIC,Công ty Cổ phần ANI,DELISTED,False,False,False,,
+SHX,Sài Gòn Hỏa xa,DELISTED,False,False,False,,
+SHS,Chứng khoán SG - HN,HNX,False,False,True,Dịch vụ tài chính,Dịch vụ tài chính
+SHP,Thủy điện Miền Nam,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SHN,Đầu tư Tổng hợp Hà Nội,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+SHI,Quốc tế Sơn Hà,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+SHG,Tổng Công ty Sông Hồng,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SHE,PT Năng Lượng Sơn Hà,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+SHC,Hàng hải Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SHB,SHB,HSX,True,True,False,Ngân hàng,Ngân hàng
+SHA,Sơn Hà Sài Gòn,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+SGT,Sài Gòn Telecom,HSX,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+SGS,Vận tải biển Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SGR,Địa ốc Sài Gòn,HSX,False,False,False,Bất động sản,Bất động sản
+SGP,Cảng Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SGO,Dầu thực vật Sài Gòn,DELISTED,False,False,False,,
+SGN,Phục vụ mặt đất Sài Gòn,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SGI,Đầu tư SGI Holdings,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+SGH,Khách sạn Sài Gòn,HNX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+SGD,Sách GD TP.HCM,HNX,False,False,False,Truyền thông,Truyền thông
+SGC,Bánh phồng tôm Sa Giang,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SGB,Sài Gòn Công thương,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+SFN,Dệt lưới Sài Gòn,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+SFI,Vận tải SAFI,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SFG,Phân bón Miền Nam,HSX,False,False,False,Hóa chất,Hóa chất
+SFC,Nhiên liệu Sài Gòn,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+SEP,Thương mại Quảng Trị,UPCOM,False,False,False,Hóa chất,Hóa chất
+SED,Phát triển GD Phương Nam,HNX,False,False,False,Truyền thông,Truyền thông
+SEB,Điện miền Trung,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SEA,SEAPRODEX,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SDY,Xi măng Sông Đà Yaly,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDX,PCCC và Đầu tư XD Sông Đà,DELISTED,False,False,False,,
+SDV,Dịch vụ Sonadezi,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+SDU,Đô thị Sông Đà,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDT,Sông Đà 10,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDP,Công ty Cổ phần SDP,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDN,Sơn Đồng Nai,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDK,Cơ khí Luyện Kim,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+SDJ,Sông Đà 25,DELISTED,False,False,False,,
+SDH,Hạ tầng Sông Đà,DELISTED,False,False,False,,
+SDG,Sadico Cần Thơ,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+SDD,Xây lắp Sông Đà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDC,Tư vấn Sông Đà,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+SDB,Sông Đà 207,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SDA,XKLĐ Sông Đà,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+SD9,Sông Đà 9,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD8,Sông Đà 8,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD7,Sông Đà 7,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD6,Sông Đà 6,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD5,Sông Đà 5,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD4,Sông Đà 4,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD3,Sông Đà 3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD2,Sông Đà 2,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SD1,Sông Đà 1,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCY,Đóng tàu Sông Cấm,DELISTED,False,False,False,,
+SCV,"Visalco.,JSC",DELISTED,False,False,False,,
+SCS,DV Hàng hóa Sài Gòn,HSX,False,True,False,Du lịch và Giải trí,Du lịch & Giải trí
+SCR,TTC Land,HSX,False,False,False,Bất động sản,Bất động sản
+SCO,Công nghiệp Thủy Sản,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+SCL,Sông Đà Cao Cường,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCJ,Xi măng Sài Sơn,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCI,SCI E&C,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCG,Xây dựng SCG,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCD,Giải khát Chương Dương,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SCC,Thương mại Đầu tư SHB,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SCA,Nông nghiệp Sông Con,DELISTED,False,False,False,,
+SC5,Xây dựng Số 5,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SBV,Siam Brothers Việt Nam,HSX,False,False,False,Bán lẻ,Bán lẻ
+SBT,Mía đường Thành Thành Công - Biên Hòa,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SBS,Chứng khoán SBS,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+SBR,Cao su Sông Bé,UPCOM,False,False,False,Hóa chất,Hóa chất
+SBM,Đầu tư PT Bắc Minh,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+SBL,Bia Sài Gòn - Bạc Liêu,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SBH,Thủy điện Sông Ba Hạ,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SBG,Tập Đoàn Cơ Khí Công Nghệ Cao Siba,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+SBD,Công nghệ Sao Bắc Đẩu,UPCOM,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+SBB,Bia Sài Gòn Bình Tây,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SBA,Sông Ba JSC,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+SB1,Bia Sài Gòn - Nghệ Tĩnh,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+SAV,Savimex,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+SAS,DV Hàng không sân bay TSN,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+SAP,In Sách TP.HCM,UPCOM,False,False,False,Truyền thông,Truyền thông
+SAM,SAM Holdings,HSX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+SAL,Trục vớt Cứu hộ Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+SAF,Thực Phẩm SAFOCO,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+SAC,Dịch vụ cảng Sài Gòn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+SAB,SABECO,HSX,True,True,False,Thực phẩm và đồ uống,Bia và đồ uống
+S99,Sông Đà 9.09 (SCI),HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+S96,Sông Đà 9.06,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+S74,Sông Đà 7.04,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+S72,Sông Đà 7.02,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+S55,Sông Đà 505,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+S4A,Thủy điện Sê San 4A,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+S27,Sông Đà 27,DELISTED,False,False,False,,
+S12,Sông Đà 12,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+RYG,Sản xuất và Đầu tư Hoàng Gia,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+RTB,Cao su Tân Biên,UPCOM,False,False,False,Hóa chất,Hóa chất
+ROS,Xây dựng FLC FAROS,DELISTED,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+RIC,Quốc tế Hoàng Gia,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+RGG,Regal Group,UPCOM,False,False,False,Bất động sản,Bất động sản
+RGC,Đầu tư PV-Inconess,DELISTED,False,False,False,,
+REE,Cơ Điện Lạnh REE,HSX,False,True,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+RDP,Nhựa Rạng Đông,UPCOM,False,False,False,Hóa chất,Hóa chất
+RCL,Địa Ốc Chợ Lớn,HNX,False,False,False,Bất động sản,Bất động sản
+RCD,XD - Địa ốc Cao su,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+RCC,Công trình Đường sắt Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+RBC,Công Nghiệp và Xuất nhập khẩu Cao Su,UPCOM,False,False,False,Hóa chất,Hóa chất
+RAT,VT và TM Đường sắt,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+RAL,Bóng đèn Phích nước Rạng Đông,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+QTP,Nhiệt điện Quảng Ninh,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+QTC,GTVT Quảng Nam,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+QST,Sách Quảng Ninh,HNX,False,False,False,Truyền thông,Truyền thông
+QSP,Tân cảng Quy Nhơn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+QPH,Thủy điện Quế Phong,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+QNW,Cấp thoát nước và XD Quảng Ngãi,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+QNU,Môi trường Đô thị Quảng Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+QNT,Tư vấn và Đầu tư Phát triển Quảng Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+QNS,Đường Quảng Ngãi,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+QNP,Cảng Quy Nhơn,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+QNC,Xi măng Quảng Ninh,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+QLT,Bảo trì đường thủy nội địa số 10,DELISTED,False,False,False,,
+QLD,QL và XD Giao thông Lạng Sơn,DELISTED,False,False,False,,
+QHW,Nước khoáng Quảng Ninh,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+QHD,Que hàn Việt Đức,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+QCG,Quốc Cường Gia Lai,HSX,False,False,False,Bất động sản,Bất động sản
+QCC,Đầu tư XD và PT Hạ tầng Viễn Thông,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+QBS,Xuất nhập khẩu Quảng Bình,UPCOM,False,False,False,Hóa chất,Hóa chất
+PYU,Công trình đô thị Phúc Yên,DELISTED,False,False,False,,
+PXT,Xây lắp Đường ống Dầu khí,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PXS,Lắp máy Dầu khí,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PXM,Xây lắp Dầu khí Miền Trung,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PXL,KCN Dầu khí Long Sơn,UPCOM,False,False,False,Bất động sản,Bất động sản
+PXI,XL CN và dân dụng Dầu khí,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PXC,Phát triển Đô thị Dầu khí,UPCOM,False,False,False,Bất động sản,Bất động sản
+PXA,Đầu tư và Thương mại Dầu khí Nghệ An,UPCOM,False,False,False,Bất động sản,Bất động sản
+PX1,Xi măng Sông Lam 2,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PWS,Cấp thoát nước Phú Yên,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PWA,Bất động sản dầu khí,UPCOM,False,False,False,Bất động sản,Bất động sản
+PVY,Chế tạo Giàn khoan Dầu khí,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PVX,Xây lắp Dầu khí Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PVV,Vinaconex 39,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PVT,Vận tải Dầu khí PVTrans,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PVS,DVKT Dầu khí PTSC,HNX,False,False,True,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PVR,Đầu tư PVR Hà Nội,UPCOM,False,False,False,Bất động sản,Bất động sản
+PVP,Vận tải Dầu khí Thái Bình Dương,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PVO,Dầu nhờn PV Oil,UPCOM,False,False,False,Hóa chất,Hóa chất
+PVM,Thiết bị dầu khí (PV MACHINO),UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+PVL,Địa ốc Dầu khí,UPCOM,False,False,False,Bất động sản,Bất động sản
+PVI,Bảo hiểm PVI,HNX,False,False,True,Bảo hiểm,Bảo hiểm phi nhân thọ
+PVH,Xây lắp Dầu khí Thanh Hóa,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PVG,Kinh doanh LPG Việt Nam,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PVE,Tư vấn Dầu khí,UPCOM,False,False,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PVD,Khoan Dầu khí PVDrilling,HSX,False,True,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PVC,Hóa chất và Dịch vụ Dầu khí,HNX,False,False,True,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PVB,Bọc ống Dầu khí Việt Nam,HNX,False,False,True,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PVA,Xây dựng dầu khí Nghệ An,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PV2,Đầu tư PV2,HNX,False,False,False,Bất động sản,Bất động sản
+PTX,VT Petrolimex Nghệ Tĩnh,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PTV,Thương mại dầu khí,UPCOM,False,False,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PTT,Vận tải Dầu khí Đông Dương,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PTS,Vận tải Petrolimex HP,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PTP,Viễn Thông và In Bưu điện,UPCOM,False,False,False,Viễn thông,Viễn thông cố định
+PTO,Xây dựng Công trình Bưu điện,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PTN,Phát triển Nhà Khánh Hòa,DELISTED,False,False,False,,
+PTM,Ô tô PTM,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+PTL,Victory Group,HSX,False,False,False,Bất động sản,Bất động sản
+PTI,Bảo hiểm Bưu điện,HNX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+PTH,Vận tải và DV Petrolimex Hà Tây,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PTG,May Phan Thiết,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+PTE,Xi măng Phú Thọ,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PTD,Thiết kế-XD-TM Phúc Thịnh,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PTC,Đầu tư ICAPITAL,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PTB,Công ty Cổ phần Phú Tài,HSX,False,True,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+PSW,Phân bón hóa chất dầu khí Tây Nam Bộ,HNX,False,False,False,Hóa chất,Hóa chất
+PSP,DV Dầu Khí Đình Vũ,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PSN,PTSC Thanh Hóa,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PSL,Chăn nuôi Phú Sơn,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+PSI,Chứng khoán Dầu khí,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PSG,XL Dầu khí Sài Gòn,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PSE,Phân bón và hóa chất dầu khí Đông Nam Bộ,HNX,False,False,False,Hóa chất,Hóa chất
+PSD,Phân phối Tổng hợp Dầu khí,HNX,False,False,True,Bán lẻ,Bán lẻ
+PSC,Vận tải Petrolimex SG,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PSB,Sao Mai Bến Đình,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PRT,Sản xuất - XNK Bình Dương,UPCOM,False,False,False,Bất động sản,Bất động sản
+PRO,Procimex Việt Nam,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+PRE,Tái bảo hiểm PVI,HNX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+PRC,Vận tải Portserco,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PQN,DV Dầu khí Quảng Ngãi PTSC,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PPY,Xăng dầu dầu khí Phú Yên,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PPT,Petro Times,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PPS,DVKT Điện lực Dầu khí,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+PPP,PP.Pharco,HNX,False,False,False,Y tế,Dược phẩm
+PPI,BĐS Thái Bình Dương,UPCOM,False,False,False,Bất động sản,Bất động sản
+PPH,Phong Phú Corp.,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+PPE,PVPower Engineering,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+PPC,Nhiệt điện Phả Lại,HSX,False,True,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+POW,Điện lực Dầu khí Việt Nam,HSX,False,True,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+POV,PV Oil Vũng Áng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+POT,Thiết bị Bưu điện Postef,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+POS,Vận hành và Xây lắp PTSC,UPCOM,False,False,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+POM,Thép Pomina,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+POB,PVOIL Hưng Yên,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PNT,Kỹ thuật XD Phú Nhuận,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PNP,Tân Cảng - Phú Hữu,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PNJ,Vàng Phú Nhuận,HSX,False,True,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+PNG,Thương Mại Phú Nhuận,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+PND,Xăng dầu Dầu khí Nam Định,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PNC,Văn hóa Phương Nam,HSX,False,False,False,Truyền thông,Truyền thông
+PMW,Cấp Nước Phú Mỹ,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PMT,Telvina Việt Nam,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+PMS,Cơ khí xăng dầu,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+PMP,Bao bì Đạm Phú Mỹ,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+PMJ,Vật tư Bưu điện,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+PMG,ĐT và SX Petro Miền Trung,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PMC,Pharmedic,HNX,False,False,False,Y tế,Dược phẩm
+PMB,Phân bón và Hóa chất Dầu khí Miền Bắc,HNX,False,False,False,Hóa chất,Hóa chất
+PLX,Petrolimex,HSX,True,True,False,Dầu khí,Sản xuất Dầu khí
+PLP,SX và CN Nhựa Pha Lê,HSX,False,False,False,Hóa chất,Hóa chất
+PLO,Kho vận Petec,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PLE,Tư vấn Xây dựng Petrolimex,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PLC,Hóa dầu Petrolimex,HNX,False,False,True,Hóa chất,Hóa chất
+PLA,ĐT&DV Hạ tầng Xăng dầu (PLAND),UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PJT,Vận tải thủy PETROLIMEX,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PJS,Cấp nước Phú Hòa Tân,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PJC,TM và Vận tải Petrolimex HN,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PIV,PIV JSC,UPCOM,False,False,False,Bất động sản,Bất động sản
+PIT,XNK PETROLIMEX,HSX,False,False,False,Bán lẻ,Bán lẻ
+PIS,Pisico Bình Định,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+PID,Trang trí nội thất Dầu khí,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PIC,Đầu tư Điện lực 3,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+PIA,Tin học Viễn thông Petrolimex,HNX,False,False,False,Viễn thông,Viễn thông cố định
+PHS,Chứng khoán Phú Hưng,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+PHR,Cao su Phước Hòa,HSX,False,True,False,Hóa chất,Hóa chất
+PHP,Cảng Hải Phòng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PHN,Pin Hà Nội,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+PHH,Hồng Hà Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PHC,Xây dựng Phục Hưng Holdings,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PGV,Tổng Công ty Phát điện 3,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+PGT,PGT Holdings,HNX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+PGS,Khí Miền Nam,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PGN,Phụ Gia Nhựa,HNX,False,False,False,Hóa chất,Hóa chất
+PGI,Bảo hiểm PJICO,HSX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+PGD,PV GAS D,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PGC,Gas Petrolimex,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PGB,PG Bank,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+PFL,Dầu khí Đông Đô,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PET,Dịch vụ Tổng hợp Dầu khí,HSX,False,False,False,Bán lẻ,Bán lẻ
+PEQ,Thiết bị xăng dầu Petrolimex,UPCOM,False,False,False,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí"
+PEN,Xây lắp III Petrolimex,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PEG,TM Kỹ thuật và Đầu tư (PETEC),UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PEC,Cơ khí Điện lực,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+PDV,Vận tải Phương Đông Việt,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PDT,,DELISTED,False,False,False,,
+PDR,BĐS Phát Đạt,HSX,False,True,False,Bất động sản,Bất động sản
+PDN,Cảng Đồng Nai,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PDC,Dầu khí Phương Đông,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+PDB,DIN Capital,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PCT,Vận tải Biển Global Pacific,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PCN,Dầu khí DMC-Miền Bắc,DELISTED,False,False,False,,
+PCM,VLXD Bưu điện,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PCH,Nhựa Picomat,HNX,False,False,False,Hóa chất,Hóa chất
+PCG,Đầu tư PT Gas Đô thị,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+PCF,Cà phê PETEC,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+PCE,Phân bón và Hóa chất DK Miền Trung,HNX,False,False,False,Hóa chất,Hóa chất
+PCC,Xây lắp 1- Petrolimex,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PC1,Tập đoàn PC1,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+PBT,Bao bì và TM Dầu khí Bình Sơn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+PBP,Bao bì Dầu khí VN,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+PBC,Dược Phẩm TW 1- Pharbaco,UPCOM,False,False,False,Y tế,Dược phẩm
+PAT,Phốt pho Apatit Việt Nam,UPCOM,False,False,False,Hóa chất,Hóa chất
+PAS,Quốc tế Phương Anh,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+PAP,Cảng Phước An,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+PAN,Tập đoàn PAN,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+PAI,"CNTT, VT và Tự động hóa Dầu khí - PAIC",UPCOM,False,False,False,Viễn thông,Viễn thông cố định
+PAC,Pin Ắc quy Miền Nam,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+ORS,Chứng khoán Tiên Phong,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+OPC,Dược phẩm OPC,HSX,False,False,False,Y tế,Dược phẩm
+ONW,Dịch vụ Một Thế giới,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+ONE,Truyền thông Số 1,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+OIL,PV Oil,UPCOM,False,False,False,Dầu khí,Sản xuất Dầu khí
+OGC,Tập đoàn Đại Dương,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+ODE,Tập đoàn Truyền thông và Giải trí ODE,UPCOM,False,False,False,Truyền thông,Truyền thông
+OCH,Khách sạn và Dịch vụ OCH,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+OCB,Ngân hàng Phương Đông,HSX,False,True,False,Ngân hàng,Ngân hàng
+NXT,SX và Cung ứng VLXD Kon Tum,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NWT,Vận tải Newway,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+NVT,Ninh Vân Bay,HSX,False,False,False,Bất động sản,Bất động sản
+NVP,Nước sạch Vĩnh Phúc,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NVL,Novaland,HSX,False,False,False,Bất động sản,Bất động sản
+NVB,Ngân hàng Quốc Dân,HNX,False,False,False,Ngân hàng,Ngân hàng
+NUE,Môi trường Đô thị Nha Trang,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+NTW,Cấp nước Nhơn Trạch,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NTT,Dệt - May Nha Trang,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+NTP,Nhựa Tiền Phong,HNX,False,False,True,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NTL,Đô thị Từ Liêm,HSX,False,False,False,Bất động sản,Bất động sản
+NTH,Thủy điện Nước Trong,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+NTF,Dược Nghệ An,UPCOM,False,False,False,Y tế,Dược phẩm
+NTC,KCN Nam Tân Uyên,HSX,False,False,False,Bất động sản,Bất động sản
+NTB,Công trình giao thông 584,UPCOM,False,False,False,Bất động sản,Bất động sản
+NT2,Điện lực Nhơn Trạch 2,HSX,False,True,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+NST,Thuốc lá Ngân Sơn,HNX,False,False,False,Hàng cá nhân & Gia dụng,Thuốc lá
+NSS,Nông súc sản Đồng Nai,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NSL,Cấp nước Sơn La,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NSH,Nhôm Sông Hồng,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+NSG,Nhựa Sài Gòn,UPCOM,False,False,False,Hóa chất,Hóa chất
+NSC,Tập đoàn Giống cây trồng Việt Nam,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NS3,Nước sạch số 3 Hà Nội,DELISTED,False,False,False,,
+NS2,Nước sạch số 2 Hà Nội,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NRC,Tập đoàn NRC,HNX,False,False,False,Bất động sản,Bất động sản
+NQT,Nước sạch Quảng Trị,DELISTED,False,False,False,,
+NQN,Nước sạch Quảng Ninh,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NQB,Cấp nước Quảng Bình,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NOS,Vận tải Biển và Thương mại Phương Đông,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+NO1,Tâp đoàn 911,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+NNT,Cấp nước Ninh Thuận,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NNQ,,DELISTED,False,False,False,,
+NNG,CN - DV - TM Ngọc Nghĩa,DELISTED,False,False,False,,
+NNC,Đá Núi Nhỏ,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NLS,Cấp thoát nước Lạng Sơn,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NLG,BĐS Nam Long,HSX,False,True,False,Bất động sản,Bất động sản
+NKG,Thép Nam Kim,HSX,False,True,False,Tài nguyên Cơ bản,Kim loại
+NJC,May Nam Định,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+NHV,Đầu tư NHV,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+NHT,Sản xuất và Thương mại Nam Hoa,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng hóa giải trí
+NHP,Sản xuất XNK NHP,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+NHH,Nhựa Hà Nội,HSX,False,False,False,Hóa chất,Hóa chất
+NHC,Gạch ngói Nhị Hiệp,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NHA,PT Nhà và Đô thị Nam HN,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NGC,Thủy sản Ngô Quyền,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NFC,Phân lân Ninh Bình,HNX,False,False,False,Hóa chất,Hóa chất
+NET,Bột giặt Net,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+NEM,Thiết bị Điện Miền Bắc,DELISTED,False,False,False,,
+NED,Phát triển Điện Tây Bắc,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NDX,Phát triển Nhà Đà Nẵng,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NDW,Cấp nước Nam Định,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NDT,Dệt may Nam Định,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+NDP,Dược phẩm 2/9,UPCOM,False,False,False,Y tế,Dược phẩm
+NDN,PT Nhà Đà Nẵng,HNX,False,False,False,Bất động sản,Bất động sản
+NDF,Nông sản XK Nam Định,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NDC,Dược phẩm Nam Dược,UPCOM,False,False,False,Y tế,Dược phẩm
+ND2,Đầu tư và PT điện Miền Bắc 2,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+NCT,DV Hàng hóa Nội Bài,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+NCS,Suất ăn Hàng không Nội Bài,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NCG,Nova Consumer,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+NBW,Cấp nước Nhà Bè,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NBT,Cấp thoát nước Bến Tre,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NBP,Nhiệt điện Ninh Bình,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+NBE,Sách và Thiết bị GD Miền Bắc,UPCOM,False,False,False,Truyền thông,Truyền thông
+NBC,Than Núi Béo,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+NBB,577 CORP,HSX,False,False,False,Bất động sản,Bất động sản
+NAW,Cấp nước Nghệ An,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+NAV,Tấm lợp và gỗ Nam Việt,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NAU,Công trình Đô thị Nghệ An,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+NAS,DV Hàng không SB Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+NAP,Cảng Nghệ Tĩnh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+NAG,Tập đoàn Nagakawa,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+NAF,Nafoods Group,HSX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+NAC,Tư vấn xây dựng Tổng hợp,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+NAB,Ngân hàng Nam Á,HSX,False,True,False,Ngân hàng,Ngân hàng
+MZG,Miza Corp,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+MXC,,DELISTED,False,False,False,,
+MWG,Thế giới di động,HSX,True,True,False,Bán lẻ,Bán lẻ
+MVN,TCT Hàng hải Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+MVC,VL và XD Bình Dương,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MVB,Mỏ Việt Bắc - TKV,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MTX,Công Trình Đô Thị Gò Công,DELISTED,False,False,False,,
+MTV,Công trình đô thị Vũng Tàu,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MTS,Vật tư - TKV,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MTP,Dược Medipharco,UPCOM,False,False,False,Y tế,Dược phẩm
+MTL,Môi trường Đô thị Từ Liêm,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MTH,Môi trường Đô thị Hà Đông,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MTG,MTGAS,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+MTC,Dịch Vụ Du Lịch Mỹ Trà,DELISTED,False,False,False,,
+MTB,Công trình đô thị tỉnh Thái Bình,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MTA,Khoáng sản và TM Hà Tĩnh,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MST,Đầu tư MST,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MSR,Masan High-Tech Materials,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MSN,Tập đoàn Masan,HSX,True,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MSH,May Sông Hồng,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+MSB,MSB Bank,HSX,False,True,False,Ngân hàng,Ngân hàng
+MRF,Cao su y tế MERUFA,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+MQN,Môi trường đô thị Quảng Ngãi,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MQB,Môi trường và PT đô thị Quảng Bình,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MPY,Môi trường đô thị Phú Yên,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MPT,Tập đoàn MPT,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+MPC,Thủy sản Minh Phú,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MND,Môi trường Nam Định,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MNB,May Nhà Bè,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+MML,Masan MEATLife,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MLS,Chăn nuôi Mitraco,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MLC,Môi trường Đô thị Tỉnh Lào Cai,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MKV,Dược Thú Y Cai Lậy,HNX,False,False,False,Y tế,Dược phẩm
+MKP,Dược phẩm Mekophar,UPCOM,False,False,False,Y tế,Dược phẩm
+MIM,Khoáng sản và Cơ khí,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MIG,Bảo hiểm Quân đội,HSX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+MIE,Máy và Thiết bị Công nghiệp,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+MIC,Khoáng sản Quảng Nam,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MHL,Minh Hữu Liên,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+MHC,CTCP MHC,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+MH3,KCN Cao su Bình Long,UPCOM,False,False,False,Bất động sản,Bất động sản
+MGR,Tập đoàn MGROUP,UPCOM,False,False,False,Bất động sản,Bất động sản
+MGG,May Đức Giang,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+MGC,Địa chất mỏ - TKV,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MFS,Mobifone Service,UPCOM,False,False,False,Viễn thông,Viễn thông di động
+MES,Cơ điện Công trình,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MEL,Thép Mê Lin,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+MEG,Công ty Megram,DELISTED,False,False,False,,
+MEF,MEINFA,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+MED,Dược Mediplantex,HNX,False,False,False,Y tế,Dược phẩm
+MEC,Lắp máy Sông Đà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MDG,Xây dựng Miền Đông,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MDF,Gỗ MDF VRG - Quảng Trị,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+MDC,Than Mông Dương,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+MDA,Môi trường Đô thị Đông Anh,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MCP,In và Bao bì Mỹ Châu,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+MCO,BDC Việt Nam,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MCM,Giống bò sữa Mộc Châu,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MCI,Đầu tư Xây dựng và Phát triển Vật liệu IDICO,DELISTED,False,False,False,,
+MCH,Hàng Tiêu Dùng MaSan,DELISTED,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MCG,Năng lượng và Bất động sản MCG,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MCF,Cơ khí và Lương thực Thực phẩm,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+MCD,Môi trường và Đô thị Đông Hà,DELISTED,False,False,False,,
+MCC,Gạch ngói cao cấp,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MC3,Khoáng sản 3 - Vimico,DELISTED,False,False,False,,
+MBT,BĐS cho thuê Minh Bảo Tín,UPCOM,False,False,False,Bất động sản,Bất động sản
+MBS,Chứng khoán MB,HNX,False,False,True,Dịch vụ tài chính,Dịch vụ tài chính
+MBN,Môi trường và Công trình ĐT Bắc Ninh,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+MBG,Tập đoàn MBG,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+MBB,MBBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+MAS,Sân bay Đà Nẵng,HNX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+MAC,Tập đoàn Macstar,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+MA1,MACHINCO1,UPCOM,False,False,False,Bất động sản,Bất động sản
+M10,Tổng công ty May 10,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+LYF,Công ty Lương Thực Lương Yên,DELISTED,False,False,False,,
+LWS,Cấp nước Lào Cai,DELISTED,False,False,False,,
+LUT,Đầu tư Xây dựng Lương Tài,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LTG,Tập đoàn Lộc Trời (BVTV An Giang),UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+LTC,Điện nhẹ Viễn thông,UPCOM,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+LSS,Mía đường Lam Sơn,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+LSG,BĐS Sài Gòn Vina,UPCOM,False,False,False,Bất động sản,Bất động sản
+LQN,Licogi Quảng Ngãi,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LPT,TM và SX Lập Phương Thành,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+LPB,LPBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+LO5,LILAMA 5,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+LNC,Lệ Ninh - Quảng Bình,UPCOM,False,False,False,Hóa chất,Hóa chất
+LMI,Lắp máy IDICO,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+LMH,CTCP Quốc Tế Holding,UPCOM,False,False,False,Bất động sản,Bất động sản
+LMC,Khoáng sản LATCA,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+LM8,LILAMA 18,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LM7,LILAMA 7,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+LM3,Lilama 3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LLM,LILAMA,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+LKW,Cấp nước Long Khánh,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+LIX,Bột Giặt LIX,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+LIG,Licogi 13,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LIC,LICOGI,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LHG,KCN Long Hậu,HSX,False,False,False,Bất động sản,Bất động sản
+LHC,XD Thủy lợi Lâm Đồng,HNX,False,False,True,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LGM,Giày da và may mặc XK (Legamex),DELISTED,False,False,False,,
+LGL,Long Giang Land,HSX,False,False,False,Bất động sản,Bất động sản
+LGC,Đầu tư Cầu đường CII,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LG9,Cơ giới và XL số 9 (Licogi 9),UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LEC,BĐS Điện lực Miền Trung,UPCOM,False,False,False,Bất động sản,Bất động sản
+LDW,Cấp thoát nước Lâm Đồng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+LDP,Dược Lâm Đồng - Ladophar,HNX,False,False,False,Y tế,Dược phẩm
+LDG,Đầu tư LDG,HSX,False,False,False,Bất động sản,Bất động sản
+LCW,Nước sạch Lai Châu,DELISTED,False,False,False,,
+LCS,Licogi 16.6,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LCM,Khoáng sản Lào Cai,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+LCG,LIZEN,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LCD,Thí nghiệm cơ điện,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LCC,Xi măng Hồng Phong,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LBM,Khoáng sản Lâm Đồng,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LBE,Thương mại và Dịch vụ LVA,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+LBC,Thương mại - Đầu tư Long Biên,DELISTED,False,False,False,,
+LAW,Cấp thoát nước Long An,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+LAS,Hóa chất Lâm Thao,HNX,False,False,True,Hóa chất,Hóa chất
+LAI,XD Long An IDICO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+LAF,Chế biến Hàng XK Long An,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+L63,Lilama 69-3,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+L62,LILAMA 69.2,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+L61,LILAMA 69-1,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+L45,Lilama 45.1,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L44,LILAMA 45.4,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+L43,LILAMA 45.3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L40,Đầu tư và Xây dựng 40,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L35,Cơ khí Lilama,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+L18,LICOGI - 18,HNX,False,False,True,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L14,Licogi 14,HNX,False,False,True,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L12,LICOGI 12,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+L10,LILAMA 10,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+KWA,Cấp thoát nước Kiến Tường,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+KVC,XNK Inox Kim Vĩ,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+KTW,Cấp nước Kon Tum,DELISTED,False,False,False,,
+KTT,Tập đoàn Đầu tư KTT,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KTS,Đường Kon Tum,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+KTL,Kim khí Thăng Long,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+KTC,Thương mại Kiên Giang,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+KSV,Khoáng sản TKV,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+KST,KASATI,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+KSQ,CNC Capital Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KSH,Damac GLS,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+KSF,Tập đoàn Sunshine,HNX,False,False,False,Bất động sản,Bất động sản
+KSD,Đầu tư DNA,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+KSB,Khoáng sản Bình Dương,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KPF,Đầu tư Tài sản KOJI,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KOS,Công ty KOSY,HSX,False,True,False,Bất động sản,Bất động sản
+KMT,Kim khí Miền Trung,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+KMR,MIRAE,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+KLM,Kim loại màu Nghệ Tĩnh,DELISTED,False,False,False,,
+KLF,KLF Global,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+KLB,KienlongBank,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+KKC,Tập đoàn Thành Thái,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+KIP,K.I.P Việt Nam,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+KHW,Cấp thoát nước Khánh Hòa,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+KHS,Thủy sản Kiên Hùng,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+KHP,Điện lực Khánh Hòa,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+KHL,VLXD Hưng Long,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KHG,Tập đoàn Khải Hoàn Land,HSX,False,False,False,Bất động sản,Bất động sản
+KHD,Khoáng sản Hải Dương,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+KHB,Khoáng sản Hòa Bình,DELISTED,False,False,False,,
+KHA,Đầu tư và DV Khánh Hội,DELISTED,False,False,False,,
+KGM,XNK Kiên Giang,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+KDM,Tập đoàn GCL,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+KDH,Nhà Khang Điền,HSX,False,True,False,Bất động sản,Bất động sản
+KDC,Tập đoàn KIDO,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+KCE,Bê tông Ly tâm ĐL Khánh Hòa,DELISTED,False,False,False,,
+KCB,Khoáng Sản Luyện Kim Cao Bằng,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+KBC,TCT Đô thị Kinh Bắc,HSX,False,True,False,Bất động sản,Bất động sản
+KAC,Địa ốc Khang An,DELISTED,False,False,False,,
+JVC,Đầu tư Y tế - Dược phẩm Việt Nam,HSX,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+JOS,Thủy sản Minh Hải,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+IVS,Chứng khoán Guotai Junan (Việt Nam),HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+ITS,Thương mại và DV - Vinacomin,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+ITQ,Tập đoàn Thiên Quang,HNX,False,False,False,Tài nguyên Cơ bản,Kim loại
+ITD,Công nghệ ITD,HSX,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+ITC,Đầu tư kinh doanh Nhà,HSX,False,False,False,Bất động sản,Bất động sản
+ITA,Đầu tư CN Tân Tạo,UPCOM,False,False,False,Bất động sản,Bất động sản
+IST,ICD Tân Cảng Sóng Thần,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+ISH,Thủy điện Srok Phu Miêng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+ISG,Vận tải biển và Hợp tác LĐ Quốc Tế,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+IRC,Cao su Công nghiệp,UPCOM,False,False,False,Hóa chất,Hóa chất
+IPH,,DELISTED,False,False,False,,
+IPA,Tập đoàn Đầu tư I.P.A,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+INN,Bao bì và In Nông Nghiệp,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+ING,Đầu Tư Và Pt Xây Dựng,DELISTED,False,False,False,,
+INC,Tư vấn Đầu tư IDICO,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+IN4,In số 4,UPCOM,False,False,False,Truyền thông,Truyền thông
+IMP,IMEXPHARM,HSX,False,True,False,Y tế,Dược phẩm
+IME,Xây lắp Công nghiệp,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+ILS,TM và Dịch vụ Quốc tế,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+ILC,Hợp tác lao động với nước ngoài,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+ILB,ICD Tân Cảng Long Bình,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+ILA,Công ty ILA,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+IJC,Becamex IJC,HSX,False,False,False,Bất động sản,Bất động sản
+IHK,In Hàng Không,UPCOM,False,False,False,Truyền thông,Truyền thông
+IFS,Thực phẩm Quốc tế,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+IDV,PT Hạ tầng Vĩnh Phúc,HNX,False,False,True,Bất động sản,Bất động sản
+IDP,Sữa Quốc tế LOF,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+IDJ,Đầu tư IDJ Việt Nam,HNX,False,False,False,Bất động sản,Bất động sản
+IDI,Đầu tư và PT Đa Quốc Gia I.D.I,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+IDC,IDICO,HNX,False,False,True,Bất động sản,Bất động sản
+ICT,Viễn thông - Tin học Bưu điện,HSX,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+ICN,XD Dầu Khí IDICO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ICI,Đầu tư và XD Công nghiệp,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ICG,Xây dựng Sông Hồng,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ICF,ĐT TM Thủy sản,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+ICC,Xây dựng công nghiệp,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+IBN,In báo Nghệ An,DELISTED,False,False,False,,
+IBD,In Tổng hợp Bình Dương,UPCOM,False,False,False,Truyền thông,Truyền thông
+IBC,Đầu tư APAX Holdings,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+HWS,Cấp nước Huế,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+HVX,Xi măng Vicem Hải Vân,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HVT,Hóa chất Việt trì,HNX,False,False,False,Hóa chất,Hóa chất
+HVN,Vietnam Airlines,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+HVH,Đầu tư và Công nghệ HVC,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HVG,Thủy sản Hùng Vương,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HVA,Đầu tư HVA,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+HUX,,DELISTED,False,False,False,,
+HUT,Tasco- CTCP,HNX,False,False,True,Ô tô và phụ tùng,Ô tô và phụ tùng
+HUG,May Hưng Yên,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HUB,Xây lắp Huế,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HU6,PT Nhà và Đô thị HUD6,UPCOM,False,False,False,Bất động sản,Bất động sản
+HU4,Đầu tư và Xây dựng HUD4,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HU3,Xây dựng HUD3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HU1,Xây dựng HUD1,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HTW,Cấp nước Hà Tĩnh,DELISTED,False,False,False,,
+HTV,Logistics Vicem,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HTT,Thương mại Hà Tây,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+HTR,Đường sắt Hà Thái,DELISTED,False,False,False,,
+HTP,In SGK Hòa Phát,UPCOM,False,False,False,Truyền thông,Truyền thông
+HTN,Hưng Thịnh Incons,HSX,False,False,False,Bất động sản,Bất động sản
+HTM,Thương mại Hà Nội - Hapro,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+HTL,Ô tô Trường Long,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+HTK,,DELISTED,False,False,False,,
+HTI,PT Hạ tầng IDICO,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HTH,Hoa tiêu Hàng hải - TKV,DELISTED,False,False,False,,
+HTG,Dệt may Hòa Thọ,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HTE,Kinh doanh điện lực TP HCM,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+HTC,Thương mại Hóc Môn,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+HT1,VICEM Hà Tiên,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HSV,Tập đoàn HSV Việt Nam,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+HSP,Sơn Tổng hợp Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HSM,HANOSIMEX,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HSL,Thực phẩm Hồng Hà,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HSI,Phân bón Hóa sinh,UPCOM,False,False,False,Hóa chất,Hóa chất
+HSG,Tập đoàn Hoa Sen,HSX,False,True,False,Tài nguyên Cơ bản,Kim loại
+HSA,HESTIA,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+HRT,Vận tải đường sắt Hà Nội,DELISTED,False,False,False,,
+HRC,Cao su Hòa Bình,HSX,False,False,False,Hóa chất,Hóa chất
+HRB,Harec Đầu tư và Thương Mại,UPCOM,False,False,False,Bất động sản,Bất động sản
+HQC,Địa ốc Hoàng Quân,HSX,False,False,False,Bất động sản,Bất động sản
+HPX,Đầu tư Hải Phát,HSX,False,False,False,Bất động sản,Bất động sản
+HPW,Cấp nước Hải Phòng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+HPT,DV Công nghệ Tin học HPT,UPCOM,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+HPP,Sơn Hải Phòng,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HPO,Công nghiệp Hapulico,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+HPM,Khoáng sản Hoàng Phúc,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+HPI,Khu công nghiệp Hiệp Phước,UPCOM,False,False,False,Bất động sản,Bất động sản
+HPH,Hóa Chất Hưng Phát Hà Bắc,UPCOM,False,False,False,Hóa chất,Hóa chất
+HPG,Hòa Phát,HSX,True,True,False,Tài nguyên Cơ bản,Kim loại
+HPD,Thủy điện Đăk Đoa,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+HPB,Bao bì PP,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+HOT,Du lịch - DV Hội An,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+HOM,Xi măng VICEM Hoàng Mai,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HNT,Xe điện Hà Nội,DELISTED,False,False,False,,
+HNR,Cồn Rượu và Nước Giải Khát Hà Nội,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HNP,Hanel Xốp Nhựa,UPCOM,False,False,False,Hóa chất,Hóa chất
+HNM,HANOIMILK,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HNI,May Hữu Nghị,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HNG,Nông nghiệp Quốc tế HAGL,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HNF,Bánh kẹo Hữu Nghị,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HNE,,DELISTED,False,False,False,,
+HND,Nhiệt điện Hải Phòng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+HNB,Bến xe Hà Nội,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HNA,Thủy điện Hủa Na,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+HMS,XD Bảo tàng Hồ Chí Minh,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HMR,Đá Hoàng Mai,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HMH,Tập đoàn Hải Minh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HMG,Kim Khí Hà Nội,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+HMD,Hóa chất Minh Đức,UPCOM,False,False,False,Hóa chất,Hóa chất
+HMC,Kim khí TP.HCM,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+HLY,Gốm Xây Dựng Yên Hưng,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HLT,Dệt may Hoàng Thị Loan,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HLS,Sứ Hoàng Liên Sơn,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+HLR,Đường sắt Hà Lạng,DELISTED,False,False,False,,
+HLO,Công Nghệ Ha Lô,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+HLG,Tập đoàn Hoàng Long,DELISTED,False,False,False,,
+HLE,Điện chiếu sáng Hải Phòng,DELISTED,False,False,False,,
+HLD,Bất động sản HUDLAND,HNX,False,False,False,Bất động sản,Bất động sản
+HLC,Than Hà Lầm,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+HLB,Bia và NGK Hạ Long,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HLA,Hữu Liên Á Châu,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+HKT,Đầu tư QP Xanh,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HKP,Bao bì Hà Tiên,DELISTED,False,False,False,,
+HKB,Thực phẩm Hà Nội - Kinh Bắc,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HJS,Thủy điện Nậm Mu,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+HJC,Công ty Cổ phần Hoà Việt,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Thuốc lá
+HIO,Helio Energy,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+HII,An Tiến Industries,HSX,False,False,False,Hóa chất,Hóa chất
+HIG,Tập đoàn HIPT,DELISTED,False,False,False,,
+HID,Halcom Vietnam,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HHS,Đầu tư DV Hoàng Huy,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+HHR,Đường sắt Hà Hải,DELISTED,False,False,False,,
+HHP,HHP Global,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+HHN,Vận tải và DV Hàng hóa Hà Nội,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HHG,Vận tải Hoàng Hà,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+HHC,Bánh kẹo Hải Hà,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HHB,Bia Hà Nội - Hồng Hà,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HGW,Công trình đô thị Hậu Giang,DELISTED,False,False,False,,
+HGT,Du lịch Hương Giang,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+HGR,,DELISTED,False,False,False,,
+HGM,Khoáng sản Hà Giang,HNX,False,False,True,Tài nguyên Cơ bản,Khai khoáng
+HGC,,DELISTED,False,False,False,,
+HGA,,DELISTED,False,False,False,,
+HFX,XNK Thanh Hà,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+HFC,Xăng dầu HFC,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+HFB,Công trình Cầu phà TP HCM,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HEV,Sách Đại học - Dạy nghề,HNX,False,False,False,Truyền thông,Truyền thông
+HES,Dịch vụ Giải trí Hà Nội,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+HEP,Môi trường và Công trình đô thị Huế,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+HEM,Chế tạo điện cơ Hà Nội,DELISTED,False,False,False,,
+HEJ,Tư vấn Xây dựng Thủy Lợi VN,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HEC,Tư vấn XD Thủy Lợi II (HEC II),UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+HDW,Nước sạch Hải Dương,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+HDS,Giống cây trồng Hải Dương,DELISTED,False,False,False,,
+HDP,Dược Hà Tĩnh,UPCOM,False,False,False,Y tế,Dược phẩm
+HDO,Hưng Đạo Container,DELISTED,False,False,False,,
+HDM,Dệt May Huế,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+HDG,Tập đoàn Hà Đô,HSX,False,True,False,Bất động sản,Bất động sản
+HDC,Phát triển Nhà BR-VT,HSX,False,True,False,Bất động sản,Bất động sản
+HDB,HDBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+HDA,Hãng sơn Đông Á,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HD8,PT Nhà và Đô thị HUD8,UPCOM,False,False,False,Bất động sản,Bất động sản
+HD6,Phát triển nhà số 6 Hà Nội,UPCOM,False,False,False,Bất động sản,Bất động sản
+HD2,Đầu tư phát triển nhà HUD 2,UPCOM,False,False,False,Bất động sản,Bất động sản
+HCT,TM - DV - Vận tải Xi măng Hải Phòng ,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HCM,Chứng khoán HSC,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+HCI,Đầu tư - XD Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HCD,SX và Thương mại HCD,HSX,False,False,False,Hóa chất,Hóa chất
+HCC,Bê tông Hòa Cầm,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HCB,Dệt may 29/3,DELISTED,False,False,False,,
+HC3,Xây dựng số 3 Hải Phòng,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HC1,Xây dựng số 1 Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HBS,Chứng khoán Hòa Bình,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+HBH,HABECO Hải Phòng,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HBD,Bao bì PP Bình Dương,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+HBC,Tập đoàn Xây dựng Hòa Bình,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HAX,Ô tô Hàng Xanh,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+HAW,,DELISTED,False,False,False,,
+HAV,Rượu Hapro,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HAT,TM Bia Hà Nội,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HAS,Hacisco,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HAR,BĐS An Dương Thảo Điền,HSX,False,False,False,Bất động sản,Bất động sản
+HAP,Tập đoàn Hapaco,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+HAN,Xây dựng Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HAM,Vật tư Hậu Giang,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+HAI,Nông Dược HAI,UPCOM,False,False,False,Hóa chất,Hóa chất
+HAH,Vận tải và Xếp dỡ Hải An,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+HAG,Hoàng Anh Gia Lai,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HAF,Thực phẩm Hà Nội,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+HAD,Bia Hà Nội - Hải Dương,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+HAC,Chứng khoán Hải Phòng,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+HAB,,DELISTED,False,False,False,,
+H11,Xây dựng HUD101,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GVT,Giấy Việt Trì,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+GVR,Tập đoàn CN Cao su VN,HSX,True,True,False,Hóa chất,Hóa chất
+GTT,Thuận Thảo Group,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+GTS,Công trình Giao thông Sài Gòn,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GTK,,DELISTED,False,False,False,,
+GTH,XD-GT Thừa Thiên Huế,DELISTED,False,False,False,,
+GTD,Giầy Thượng Đình,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+GTA,Gỗ Thuận An,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+GSP,Vận tải Sản phẩm Khí Quốc tế,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+GSM,Thủy điện Hương Sơn,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+GQN,,DELISTED,False,False,False,,
+GPC,Tập đoàn Green+,UPCOM,False,False,False,Y tế,Dược phẩm
+GND,Gạch ngói Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GMX,Gạch ngói Mỹ Xuân,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GMH,Minh Hưng Quảng Trị,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GMD,Gemadept,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+GMC,Garmex Sài Gòn,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+GMA,G-Automobile,HNX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+GLW,Cấp thoát nước Gia Lai,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+GLT,KT Điện Toàn Cầu,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng hóa giải trí
+GLC,Vàng Lào Cai,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+GKM,GKM Holdings,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GIL,XNK Bình Thạnh,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+GIC,ĐT Dịch vụ và PT Xanh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+GHC,Thủy điện Gia Lai,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+GH3,Công trình giao thông Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+GGG,Ôtô Giải Phóng,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+GEX,Tập đoàn Gelex,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+GER,Thể thao Ngôi sao Geru,UPCOM,False,False,False,Hóa chất,Hóa chất
+GEG,Điện Gia Lai,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+GEE,Thiết bị điện GELEX,HSX,False,True,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+GE2,Tổng Công ty Phát điện 2,DELISTED,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+GDW,Cấp nước Gia Định,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+GDT,Gỗ Đức Thành,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+GDA,Tôn Đông Á,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+GCF,Thực phẩm G.C,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+GCB,PETEC Bình Định,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+GAS,PV Gas,HSX,True,True,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+GAB,ĐT Khai khoáng và QL Tài sản FLC,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+G36,Tổng Công ty 36,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+G20,Đầu tư Dệt may Vĩnh Phúc,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+FTS,Chứng khoán FPT,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+FTM,Phát triển Đức Quân,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+FTI,Công nghiệp - Thương mại Hữu Nghị,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+FT1,Phụ tùng máy số 1,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+FSO,Đóng tàu thủy sản VN,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+FRT,Bán lẻ FPT,HSX,False,True,False,Bán lẻ,Bán lẻ
+FRM,Lâm nghiệp Sài Gòn,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+FRC,Lâm đặc sản xuất khẩu Quảng Nam,UPCOM,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+FPT,FPT Corp,HSX,True,True,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+FOX,FPT Telecom,UPCOM,False,False,False,Viễn thông,Viễn thông cố định
+FOC,FPT Online,UPCOM,False,False,False,Truyền thông,Truyền thông
+FMC,Thực phẩm Sao Ta,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+FLC,Tập đoàn FLC,UPCOM,False,False,False,Bất động sản,Bất động sản
+FIT,Tập đoàn F.I.T,HSX,False,False,False,Y tế,Dược phẩm
+FIR,Địa ốc First Real,HSX,False,False,False,Bất động sản,Bất động sản
+FID,Đầu tư và PT doanh nghiệp VN,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+FIC,VLXD số 1,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+FHS,Phát hành sách TP HCM - FAHASA,UPCOM,False,False,False,Truyền thông,Truyền thông
+FHN,XNK lương thực Hà Nội,UPCOM,False,False,False,Bán lẻ,Phân phối thực phẩm & dược phẩm
+FGL,Cà Phê Gia Lai,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+FDG,Thủy sản Docimexco,DELISTED,False,False,False,,
+FDC,FIDECO,HSX,False,False,False,Bất động sản,Bất động sản
+FCS,Lương thực TP Hồ Chí Minh,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+FCN,FECON CORP,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+FCM,Bê tông Phan Vũ Hà Nam,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+FCC,Liên hợp Thực phẩm,UPCOM,False,False,False,Bất động sản,Bất động sản
+FBC,Cơ khí Phổ Yên,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+FBA,Tập đoàn Quốc tế FBA,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+F88,Đầu tư F88,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+EVS,Chứng khoán EVS,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+EVG,Tập đoàn Everland,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+EVF,Tài chính Tổng hợp Điện lực,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+EVE,Everpia,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+EPH,Xuất bản giáo dục Hà Nội,DELISTED,False,False,False,,
+EPC,Cà Phê Ea Pốk,DELISTED,False,False,False,,
+EMS,Chuyển phát nhanh Bưu điện,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+EMG,Thiết bị phụ tùng cơ điện,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+EME,Điện Cơ,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+EMC,Cơ điện Thủ Đức,DELISTED,False,False,False,,
+ELC,ELCOM,HSX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+EIN,Đầu tư - TM - DV Điện lực,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+EID,Phát triển GD Hà Nội,HNX,False,False,False,Truyền thông,Truyền thông
+EIC,EVN Quốc Tế,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+EIB,Eximbank,HSX,False,True,False,Ngân hàng,Ngân hàng
+EGL,"Urenco Gia Lam.,Jsc",UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+EFI,Tài chính giáo dục,UPCOM,False,False,False,Bất động sản,Bất động sản
+ECO,Ecoplastic VN,UPCOM,False,False,False,Hóa chất,Hóa chất
+ECI,Bản đồ và tranh ảnh GD,HNX,False,False,False,Truyền thông,Truyền thông
+EBS,Sách Giáo dục Hà Nội,HNX,False,False,False,Truyền thông,Truyền thông
+EAD,Điện lực Đắk Lắk,DELISTED,False,False,False,,
+E29,Đầu tư XD và Kỹ thuật 29,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+E12,XD Điện VNECO 12,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DZM,Cơ điện Dzĩ An,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+DXV,Vật liệu Xây dựng Đà Nẵng,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DXS,Dịch vụ BĐS Đất Xanh,HSX,False,True,False,Bất động sản,Bất động sản
+DXP,Cảng Đoạn Xá,HNX,False,False,True,Hàng & Dịch vụ Công nghiệp,Vận tải
+DXL,Du lịch và Xuất nhập khẩu Lạng Sơn,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DXG,Địa ốc Đất Xanh,HSX,False,True,False,Bất động sản,Bất động sản
+DX2,,DELISTED,False,False,False,,
+DWS,Cấp nước Đồng Tháp,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DWC,Cấp nước Đắk Lắk,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DVW,DV và XD cấp nước Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DVT,Đào tạo nghiệp vụ GTVT Bình Định,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+DVP,ĐT và PT Cảng Đình Vũ,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DVN,Tổng Công ty Dược Việt Nam,UPCOM,False,False,False,Y tế,Dược phẩm
+DVM,Dược liệu Việt Nam,HNX,False,False,True,Y tế,Dược phẩm
+DVG,Tập đoàn Sơn Đại Việt,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DVC,TM dịch vụ Cảng Hải Phòng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DUS,Dịch vụ Đô thị Đà Lạt,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+DTV,PT điện Nông thôn Trà Vinh,DELISTED,False,False,False,,
+DTT,Kỹ nghệ Đô Thành,HSX,False,False,False,Hóa chất,Hóa chất
+DTP,Dược phẩm CPC1 Hà Nội,UPCOM,False,False,False,Y tế,Dược phẩm
+DTL,Đại Thiên Lộc,HSX,False,False,False,Tài nguyên Cơ bản,Kim loại
+DTK,Vinacomin Power,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+DTI,Đầu tư Đức Trung,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DTH,Vật tư Y tế Thanh Hóa,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+DTG,Dược phẩm Tipharco,HNX,False,False,False,Y tế,Dược phẩm
+DTE,Đại Trường Thành Holdings,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+DTD,Đầu tư Phát triển Thành Đạt,HNX,False,False,True,Bất động sản,Bất động sản
+DTC,Viglacera Đông Triều,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DTB,Công trình Đô thị Bảo Lộc,DELISTED,False,False,False,,
+DTA,BĐS Đệ Tam,HSX,False,False,False,Bất động sản,Bất động sản
+DT4,Bảo trì đường thủy nội địa số 4,DELISTED,False,False,False,,
+DSV,Đường sắt Vĩnh Phú,DELISTED,False,False,False,,
+DST,Đầu tư Sao Thăng Long,HNX,False,False,False,Truyền thông,Truyền thông
+DSP,Dịch vụ Du lịch Phú Thọ,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DSN,Công viên nước Đầm Sen,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DSH,"Dong Son Invest ., Jsc",UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DSG,Kính Đáp Cầu,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DSE,Chứng Khoán DNSE,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+DSD,DHC Suối Đôi,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DSC,Chứng khoán DSC,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+DS3,Quản lý Đường sông số 3,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DRL,Thủy điện - Điện lực 3,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+DRI,Đầu tư Cao su Đắk Lắk,UPCOM,False,False,False,Hóa chất,Hóa chất
+DRH,DRH Holdings,HSX,False,False,False,Bất động sản,Bất động sản
+DRG,Cao su Đắk Lắk,UPCOM,False,False,False,Hóa chất,Hóa chất
+DRC,Cao su Đà Nẵng,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+DQC,Tập đoàn Điện Quang,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+DPS,Đầu tư Phát triển Sóc Sơn,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+DPR,Cao su Đồng Phú,HSX,False,False,False,Hóa chất,Hóa chất
+DPP,Dược Đồng Nai,UPCOM,False,False,False,Y tế,Dược phẩm
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,HSX,False,True,False,Hóa chất,Hóa chất
+DPH,Dược phẩm Hải Phòng,UPCOM,False,False,False,Y tế,Dược phẩm
+DPG,Tập đoàn Đạt Phương,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DPD,Cao su Đồng Phú Đắk Nông,DELISTED,False,False,False,,
+DPC,Nhựa Đà Nẵng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+DP3,Dược Phẩm TW3,HNX,False,False,True,Y tế,Dược phẩm
+DP2,Dược phẩm TW 2,UPCOM,False,False,False,Y tế,Dược phẩm
+DP1,Dược phẩm Trung ương CPC1,UPCOM,False,False,False,Y tế,Dược phẩm
+DOP,Vận tải XD Đồng Tháp,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DOC,Vật tư nông nghiệp Đồng Nai,UPCOM,False,False,False,Hóa chất,Hóa chất
+DNW,Cấp nước Đồng Nai,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DNT,Du lịch Đồng Nai,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DNP,DNP Holding,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DNN,Cấp nước Đà Nẵng,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DNM,Y tế Danameco,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+DNL,Logistics Cảng Đà Nẵng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DNH,Thủy điện Đa Nhim-Hàm Thuận-Đa Mi,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+DNE,Môi trường Đô thị Đà Nẵng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+DND,XD và Vật liệu Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DNC,Điện nước Hải Phòng,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+DNB,,DELISTED,False,False,False,,
+DNA,Điện nước An Giang,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DMS,Dầu khí DMC-miền Nam,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DMN,Domenal,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+DMC,Dược phẩm DOMESCO,HSX,False,False,False,Y tế,Dược phẩm
+DM7,Dệt may 7,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+DLT,Du lịch và TM - Vinacomin,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DLR,Địa ốc Đà Lạt,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DLM,Chiếu sáng công cộng Đà Nẵng,DELISTED,False,False,False,,
+DLG,Đức Long Gia Lai,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DLD,Du lịch Đắk Lắk,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DL1,Tập đoàn Alpha 7,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DKW,Cấp nước sinh hoạt Châu Thành,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DKH,,DELISTED,False,False,False,,
+DKG,Tập đoàn DamiK,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DKC,Chợ Lạng Sơn,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+DIH,PT Xây dựng Hội An,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DIG,DIC Corp,HSX,False,True,False,Bất động sản,Bất động sản
+DID,DIC - Đồng Tiến,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DIC,ĐT và TM DIC,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DHT,Dược phẩm Hà Tây,HNX,False,False,True,Y tế,Dược phẩm
+DHP,Điện cơ Hải Phòng,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+DHN,Dược Hà Nội,UPCOM,False,False,False,Y tế,Dược phẩm
+DHM,Khoáng sản Dương Hiếu,HSX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+DHG,Dược Hậu Giang,HSX,False,False,False,Y tế,Dược phẩm
+DHD,Dược Vật Tư Y Tế Hải Dương,UPCOM,False,False,False,Y tế,Dược phẩm
+DHC,Đông Hải Bến Tre,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+DHB,Đạm Hà Bắc,UPCOM,False,False,False,Hóa chất,Hóa chất
+DHA,Hóa An,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DGW,Thế Giới Số,HSX,False,True,False,Bán lẻ,Bán lẻ
+DGT,Công trình GT Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DGC,Hóa chất Đức Giang,HSX,True,True,False,Hóa chất,Hóa chất
+DFF,Tập đoàn Đua Fat,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DFC,Xích líp Đông Anh,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+DDV,DAP - Vinachem,UPCOM,False,False,False,Hóa chất,Hóa chất
+DDN,Dược - TB Y tế Đà Nẵng,UPCOM,False,False,False,Y tế,Dược phẩm
+DDM,Hàng hải Đông Đô,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DDH,Đảm bảo GTĐT Hải Phòng,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+DDG,Đầu tư CN XNK Đông Dương,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+DDB,TM & XD Đông Dương,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DCT,Tấm lợp VLXD Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DCS,Tập đoàn EDX,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+DCR,Gạch men COSEVCO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DCM,Đạm Cà Mau,HSX,False,True,False,Hóa chất,Hóa chất
+DCL,Dược phẩm Cửu Long,HSX,False,False,False,Y tế,Dược phẩm
+DCH,Địa chính Hà Nội,UPCOM,False,False,False,Bất động sản,Bất động sản
+DCG,May Đáp Cầu,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+DCF,XD và Thiết kế số 1,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DC4,Dicera Holdings,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DC2,DIC Số 2,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DC1,Phát triển Xây dựng số 1 (DIC1),UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+DBW,Cấp nước Điện Biên,DELISTED,False,False,False,,
+DBT,Dược phẩm Bến Tre,HSX,False,False,False,Y tế,Dược phẩm
+DBM,BAMEPHARM,UPCOM,False,False,False,Y tế,Dược phẩm
+DBH,Đường bộ Hải Phòng,DELISTED,False,False,False,,
+DBD,Dược - TB Y tế Bình Định,HSX,False,False,False,Y tế,Dược phẩm
+DBC,Tập đoàn DABACO,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+DAT,ĐT Du lịch và PT Thủy sản,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+DAS,Thiết bị Dầu khí Đà Nẵng,UPCOM,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+DAR,Xe lửa Dĩ An,DELISTED,False,False,False,,
+DAN,Dược Danapha,UPCOM,False,False,False,Y tế,Dược phẩm
+DAH,Tập đoàn Khách sạn Đông Á,HSX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+DAG,TĐ Nhựa Đông Á,UPCOM,False,False,False,Hóa chất,Hóa chất
+DAE,Sách Giáo dục Đà Nẵng,HNX,False,False,False,Truyền thông,Truyền thông
+DAD,Phát triển GD Đà Nẵng,HNX,False,False,False,Truyền thông,Truyền thông
+DAC,CTCP 382 Đông Anh,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+D2D,Phát triển Đô thị số 2,HSX,False,False,False,Bất động sản,Bất động sản
+D17,Khai thác mỏ Đồng Tân,DELISTED,False,False,False,,
+D11,Địa ốc 11,HNX,False,False,False,Bất động sản,Bất động sản
+CYC,Gạch men Chang YIH,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CX8,Constrexim số 8,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CVT,CMC JSC,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CVP,Cảng Cửa Việt,DELISTED,False,False,False,,
+CVN,Vinam Group,UPCOM,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+CTX,CONSTREXIM,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CTW,Cấp thoát nước Cần Thơ,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CTT,Chế tạo máy - Vinacomin,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CTS,Chứng khoán Vietinbank,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+CTR,Công trình Viettel,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CTP,Hoà Bình Takara,HNX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+CTN,VINAVICO,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CTI,Cường Thuận IDICO,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CTG,VietinBank,HSX,True,True,False,Ngân hàng,Ngân hàng
+CTF,City Auto,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+CTD,Xây dựng Coteccons,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CTC,Tập đoàn Hoàng Kim Tây Nguyên,DELISTED,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+CTB,Bơm Hải Dương,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CTA,Xây dựng Vinavico,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CT6,Công trình 6,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CT5,,DELISTED,False,False,False,,
+CT3,Xây dựng công trình 3,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CSV,Hóa chất Cơ bản miền Nam,HSX,False,False,False,Hóa chất,Hóa chất
+CST,Than Cao Sơn - TKV,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+CSM,Cao su Miền Nam,HSX,False,False,False,Ô tô và phụ tùng,Ô tô và phụ tùng
+CSI,Chứng khoán Kiến thiết VN,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+CSC,Tập đoàn COTANA,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CRV,Tập đoàn Bất động sản CRV,HSX,False,False,False,Bất động sản,Bất động sản
+CRE,Bất động sản Thế Kỷ,HSX,False,False,False,Bất động sản,Bất động sản
+CRC,Create Capital Việt Nam,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CQT,Xi măng Quán Triều VVMI,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CQN,Cảng Quảng Ninh,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CPI,Đầu tư Cảng Cái Lân,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CPH,PV mai táng Hải Phòng,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+CPC,Thuốc sát trùng Cần Thơ,HNX,False,False,False,Hóa chất,Hóa chất
+CPA,Cà phê Phước An,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+COM,Vật tư Xăng dầu,HSX,False,False,False,Bán lẻ,Bán lẻ
+CNT,Tập đoàn CNT,UPCOM,False,False,False,Bất động sản,Bất động sản
+CNN,Xây dựng Coninco,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CNG,CNG Việt Nam,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CNC,Công nghệ cao Traphaco,UPCOM,False,False,False,Y tế,Dược phẩm
+CNA,Tổng công ty Chè Nghệ An - CTCP,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CMX,CAMIMEX Group,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CMW,Cấp nước Cà Mau,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CMV,Thương nghiệp Cà Mau,HSX,False,False,False,Bán lẻ,Bán lẻ
+CMT,CN mạng và Truyền thông,UPCOM,False,False,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+CMS,Tập đoàn CMH Việt Nam,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CMP,Cảng Chân Mây,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CMN,Colusa -  Miliket,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CMM,Camimex,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CMK,Cơ khí Mạo Khê - Vinacomin,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CMI,CMISTONE Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CMG,Tập đoàn Công nghệ CMC,HSX,False,True,False,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính
+CMF,Thực phẩm Cholimex,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CMD,VLXD và Nội thất TP.HCM,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CMC,Đầu tư CMC,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CLX,XNK và ĐT Chợ Lớn (CHOLIMEX),UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CLW,Cấp nước Chợ Lớn,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CLM,Xuất nhập khẩu Than - Vinacomin,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+CLL,Cảng Cát Lái,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CLH,Xi măng La Hiên,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CLG,Cotec Land,UPCOM,False,False,False,Bất động sản,Bất động sản
+CLC,Thuốc lá Cát Lợi,HSX,False,False,False,Hàng cá nhân & Gia dụng,Thuốc lá
+CKV,CokyVina,HNX,False,False,False,Công nghệ Thông tin,Thiết bị và Phần cứng
+CKG,Tập đoàn CIC,HSX,False,False,False,Bất động sản,Bất động sản
+CKD,Đông Anh Licogi,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CKA,Cơ khí An Giang,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+CK8,Cơ khí 120,UPCOM,False,False,False,Bất động sản,Bất động sản
+CJC,Cơ điện Miền Trung,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+CIP,XL và SX công nghiệp,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CII,Hạ tầng Kỹ thuật TP.HCM,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CIG,Xây dựng COMA 18,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CID,Xây dựng và Phát triển Cơ sở Hạ tầng,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CIA,DV Sân Bay Cam Ranh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CI5,Đầu tư Xây dựng số 5,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CHS,Chiếu sáng TPHCM,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CHP,Thủy điện Miền Trung,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+CHC,Nội thất Cẩm Hà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CH5,Xây dựng số 5 Hà Nội,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CGV,Vinaceglass JSC,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CGL,Thương mại Gia Lai,DELISTED,False,False,False,,
+CFV,Cà phê Thắng Lợi,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+CFM,Đầu tư CFM,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+CET,HTC Holding ,HNX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+CEO,Tập đoàn CEO,HNX,False,False,True,Bất động sản,Bất động sản
+CEN,CENCON Việt Nam,UPCOM,False,False,False,Bán lẻ,Bán lẻ
+CEG,XD và Thiết bị Công nghiệp,DELISTED,False,False,False,,
+CEE,Xây dựng Hạ tầng CII,DELISTED,False,False,False,,
+CE1,Thiết bị Công nghiệp CIE1,DELISTED,False,False,False,,
+CDR,Xây dựng Cao su Đồng Nai,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CDP,Dược phẩm TW Codupha,UPCOM,False,False,False,Y tế,Dược phẩm
+CDO,Tư vấn Thiết kế và PT Đô thị,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CDN,Cảng Đà Nẵng,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CDH,CTCC và DV Du lịch Hải Phòng,DELISTED,False,False,False,,
+CDG,VLXD Cầu Đuống,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CDC,Chương Dương Corp,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CCV,XD CN và đô thị Việt Nam,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CCT,Cảng Cần Thơ,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CCR,Cảng Cam Ranh,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CCP,Cảng Cửa Cấm,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CCM,Xi măng Cần Thơ,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CCL,ĐT & PT Đô thị Dầu khí Cửu Long,HSX,False,False,False,Bất động sản,Bất động sản
+CCI,CIDICO,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+CCC,Xây Dựng CDC,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CCA,XNK Thuỷ sản Cần Thơ,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CC4,ĐT và XD số 4,DELISTED,False,False,False,,
+CC1,TCT Xây dựng số 1,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+CBS,Mía đường Cao Bằng,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CBI,Gang thép Cao Bằng,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+CAV,Dây cáp điện Việt Nam,DELISTED,False,False,False,,
+CAT,Thủy sản Cà Mau,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CAR,Tập đoàn Giáo dục Trí Việt,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+CAP,Lâm nông sản Yên Bái,HNX,False,False,True,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+CAN,Đồ hộp Hạ Long,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CAG,Cảng An Giang,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+CAD,Thủy sản Cadovimex,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+CAB,Truyền hình Cáp Việt Nam,DELISTED,False,False,False,,
+C92,Xây dựng và Đầu tư 492,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+C69,Xây dựng 1369,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+C4G,Tập Đoàn Cienco4,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+C47,Xây dựng 47,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+C32,Đầu tư và Xây dựng 3-2,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+C22,Công ty 22,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+C21,Thế kỷ 21,UPCOM,False,False,False,Bất động sản,Bất động sản
+C12,Cầu 12,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BXT,,DELISTED,False,False,False,,
+BXH,Bao bì Xi măng HP,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BWS,Cấp Nước Bà Rịa Vũng Tàu,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BWE,Nước - Môi trường Bình Dương,HSX,False,True,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BWA,Cấp thoát nước và Xây dựng Bảo Lộc,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BVS,Chứng khoán Bảo Việt,HNX,False,False,True,Dịch vụ tài chính,Dịch vụ tài chính
+BVN,Bông Việt Nam,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+BVL,BV Land,UPCOM,False,False,False,Bất động sản,Bất động sản
+BVH,Tập đoàn Bảo Việt,HSX,False,True,False,Bảo hiểm,Bảo hiểm nhân thọ
+BVG,Group Bắc Việt,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+BVB,Ngân hàng Bản Việt - BVBank,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+BUD,,DELISTED,False,False,False,,
+BTW,Cấp nước Bến Thành,HNX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BTV,DV Du lịch Bến Thành,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+BTU,Công trình Đô thị Bến Tre,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+BTT,TM - DV Bến Thành,HSX,False,False,False,Bán lẻ,Bán lẻ
+BTS,Xi măng Bút Sơn,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BTP,Nhiệt điện Bà Rịa,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+BTN,Gạch Tuy Nen Bình Định,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BTH,Biến thế và Vật liệu Điện Hà Nội,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+BTG,Bao bì Tiền Giang,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BTD,Bê tông ly tâm Thủ Đức,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BTB,Bia Hà Nội - Thái Bình,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BT6,Bê tông 6,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BT1,Bảo vệ thực vật 1 TW,UPCOM,False,False,False,Hóa chất,Hóa chất
+BST,Sách và Thiết bị Bình Thuận,DELISTED,False,False,False,,
+BSR,Lọc Hóa dầu Bình Sơn,HSX,False,False,False,Dầu khí,Sản xuất Dầu khí
+BSQ,Bia Sài Gòn - Quảng Ngãi,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BSP,Bia Sài Gòn - Phú Thọ,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BSL,Bia Sài Gòn - Sông Lam,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BSI,Chứng khoán BIDV,HSX,False,True,False,Dịch vụ tài chính,Dịch vụ tài chính
+BSH,Bia Sài Gòn - Hà Nội,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BSG,Xe khách Sài Gòn,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+BSD,"Bia, rượu Sài Gòn - Đồng Xuân",UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BSC,Dịch vụ Bến Thành,HNX,False,False,False,Bất động sản,Bất động sản
+BSA,Thủy điện Buôn Đôn,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+BRS,Dịch vụ Đô thị Bà Rịa,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+BRR,Cao su Bà Rịa,UPCOM,False,False,False,Hóa chất,Hóa chất
+BRC,Cao su Bến Thành,HSX,False,False,False,Hóa chất,Hóa chất
+BQP,Nhựa Chất Lượng Cao Bình Thuận,UPCOM,False,False,False,Hóa chất,Hóa chất
+BQB,Bia Hà Nội - Quảng Bình,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BPW,,DELISTED,False,False,False,,
+BPC,Bao bì Bỉm Sơn,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BOT,BOT Cầu Thái Hà,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BNW,Nước sạch Bắc Ninh,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BNA,Tập đoàn Đầu tư Bảo Ngọc,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BMV,Bột mỳ Vinafood 1,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BMS,Chứng khoán Bảo Minh,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+BMP,Nhựa Bình Minh,HSX,False,True,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BMN,Công ty 715,DELISTED,False,False,False,,
+BMK,Black Cat,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BMJ,Khoáng sản Miền Đông AHP,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+BMI,Bảo hiểm Bảo Minh,HSX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+BMG,May Bình Minh,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+BMF,VLXD và Chất đốt Đồng Nai,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BMD,Môi trường và DV Đô thị Bình Thuận,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+BMC,Khoáng sản Bình Định,HSX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+BLW,Cấp nước Bạc Liêu,DELISTED,False,False,False,,
+BLU,,DELISTED,False,False,False,,
+BLT,Lương Thực Bình Định,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BLN,Xe buýt Liên Ninh,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+BLI,Bảo hiểm Bảo Long,UPCOM,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+BLF,Thủy sản Bạc Liêu,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BKH,Bánh mứt kẹo Hà Nội,DELISTED,False,False,False,,
+BKG,Đầu tư BKG Việt Nam,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng gia dụng
+BKC,Khoáng sản Bắc Kạn,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+BIO,Vắc xin và Sinh phẩm Nha Trang,UPCOM,False,False,False,Y tế,Dược phẩm
+BII,Đầu tư và Phát triển Công nghiệp Bảo Thư,UPCOM,False,False,False,Bất động sản,Bất động sản
+BIG,BIG Group Holdings,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BID,BIDV,HSX,True,True,False,Ngân hàng,Ngân hàng
+BIC,Bảo hiểm BIDV,HSX,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+BHT,Đầu tư XD Bạch Đằng,DELISTED,False,False,False,,
+BHP,Bia Hà Nội - Hải Phòng,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BHN,HABECO,HSX,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BHK,Bia Hà Nội - Kim Bài,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BHI,Bảo hiểm Sài Gòn - Hà Nội,UPCOM,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+BHH,Habeco Trading 89,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BHG,Chè Biển Hồ,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BHC,Bê tông Biên Hòa,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BHA,Thủy điện Bắc Hà,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+BGW,Nước sạch Bắc Giang,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BGE,BCG Energy,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+BFC,Phân bón Bình Điền,HSX,False,False,False,Hóa chất,Hóa chất
+BEL,Điện tử Biên Hoà,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng hóa giải trí
+BED,Sách Đà Nẵng,HNX,False,False,False,Truyền thông,Truyền thông
+BDW,Cấp thoát nước Bình Định,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+BDT,VLXD Đồng Tháp,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BDG,May mặc Bình Dương,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+BDB,Sách Bình Định,DELISTED,False,False,False,,
+BCV,DL và TM Bằng Giang Cao Bằng - Vimico,UPCOM,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+BCR,BCG Land,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BCP,Dược Enlie,UPCOM,False,False,False,Y tế,Dược phẩm
+BCO,Xây dựng Bình Phước,DELISTED,False,False,False,,
+BCM,Becamex Group,HSX,True,True,False,Bất động sản,Bất động sản
+BCG,Bamboo Capital,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+BCF,Thực phẩm Bích Chi,HNX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BCE,XD và GT Bình Dương,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BCC,Xi măng Bỉm Sơn,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BCB,Công ty 397,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+BCA,Công ty B.C.H,UPCOM,False,False,False,Tài nguyên Cơ bản,Kim loại
+BBT,Bông Bạch Tuyết,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+BBS,Bao bì Xi măng Bút Sơn,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BBM,Bia Hà Nội - Nam Định,UPCOM,False,False,False,Thực phẩm và đồ uống,Bia và đồ uống
+BBH,Bao bì Hoàng Thạch,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BBC,Bánh kẹo BIBICA,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BAX,Công ty Thống Nhất,HNX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+BAL,Bao bì Balpac,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+BAF,Nông nghiệp BAF Việt Nam,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+BAB,Ngân hàng Bắc Á,HNX,False,False,False,Ngân hàng,Ngân hàng
+B82,Công ty 482,DELISTED,False,False,False,,
+AVG,Phân Bón Quốc Tế Âu Việt,UPCOM,False,False,False,Hóa chất,Hóa chất
+AVF,Thủy sản Việt An,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AVC,Thủy điện A Vương,UPCOM,False,False,False,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện
+AUM,Vinacafe Sơn Thành,DELISTED,False,False,False,,
+ATS,Tập đoàn Đầu tư ATS,HNX,False,False,False,Du lịch và Giải trí,Du lịch & Giải trí
+ATG,ATG Planet,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+ATB,Công ty An Thịnh,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ATA,NTACO,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AST,Dịch vụ Hàng không Taseco,HSX,False,False,False,Bán lẻ,Bán lẻ
+ASP,Dầu khí An Pha,HSX,False,False,False,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt
+ASM,Tập đoàn Sao Mai,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+ASG,Tập đoàn ASG,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+ASA,Hàng tiêu dùng ASA,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+ART,Chứng khoán ARTEX,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+ARM,XNK Hàng không,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+APT,Thủy hải sản Sài Gòn,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+APS,CK Châu Á - TBD,HNX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+APP,Phụ gia và SP Dầu mỏ,UPCOM,False,False,False,Hóa chất,Hóa chất
+APL,Cơ khí và Thiết bị áp lực - VVMI,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng
+API,Đầu tư Châu Á - Thái Bình Dương,HNX,False,False,False,Bất động sản,Bất động sản
+APH,Tập đoàn An Phát Holdings,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp
+APG,Chứng khoán APG,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+APF,Nông sản Quảng Ngãi,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+APC,Chiếu xạ An Phú,UPCOM,False,False,False,Y tế,Dược phẩm
+ANV,Thủy sản Nam Việt,HSX,False,True,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+ANT,Rau quả thực phẩm An Giang,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AMV,Dược-TB Y tế Việt Mỹ,HNX,False,False,False,Y tế,Thiết bị và Dịch vụ Y tế
+AMS,Xây dựng AMECC,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+AMP,Armephaco,UPCOM,False,False,False,Y tế,Dược phẩm
+AME,Cơ điện Alphanam,HNX,False,False,False,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện
+AMD,FLC Stone,UPCOM,False,False,False,Bất động sản,Bất động sản
+AMC,Khoáng sản Á Châu,HNX,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+ALV,Tập đoàn MCST,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ALT,Văn hóa Tân Bình,HNX,False,False,False,Truyền thông,Truyền thông
+AIG,Nguyên liệu Á Châu AIG,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AIC,Bảo hiểm DBV,UPCOM,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+AGX,Nông sản Xuất khẩu Sài Gòn,UPCOM,False,False,False,Bán lẻ,Phân phối thực phẩm & dược phẩm
+AGR,Agriseco,HSX,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+AGP,Dược phẩm AGIMEXPHARM,UPCOM,False,False,False,Y tế,Dược phẩm
+AGM,XNK An Giang,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AGG,Bất động sản An Gia,HSX,False,False,False,Bất động sản,Bất động sản
+AGF,Thủy sản An Giang,UPCOM,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AGE,Môi trường Đô thị An Giang,DELISTED,False,False,False,,
+AG1,28.1 JSC,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+AFX,XNK Nông sản Thực phẩm An Giang,HSX,False,False,False,Bán lẻ,Phân phối thực phẩm & dược phẩm
+ADS,Dệt sợi DAMSAN,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+ADP,Sơn Á Đông,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ADG,Clever Group,HSX,False,False,False,Truyền thông,Truyền thông
+ADC,Mĩ thuật và Truyền thông,HNX,False,False,False,Truyền thông,Truyền thông
+ACV,Cảng Hàng không VN,UPCOM,False,False,False,Hàng & Dịch vụ Công nghiệp,Vận tải
+ACS,Xây lắp Thương mại 2,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ACM,Tập đoàn Khoáng sản Á Cường,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+ACL,Thủy sản CL An Giang,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+ACG,Gỗ An Cường,HSX,False,False,False,Tài nguyên Cơ bản,Lâm nghiệp và Giấy
+ACE,Bê tông An Giang,UPCOM,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ACC,Đầu tư và XD Bình Dương ACC,HSX,False,False,False,Xây dựng và Vật liệu,Xây dựng và Vật liệu
+ACB,ACB,HSX,True,True,False,Ngân hàng,Ngân hàng
+ABW,Chứng khoán An Bình,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+ABT,Thủy sản Bến Tre,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+ABS,DV Nông nghiệp Bình Thuận,HSX,False,False,False,Hóa chất,Hóa chất
+ABR,Đầu tư Nhãn Hiệu Việt,HSX,False,False,False,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh
+ABI,BH NH Nông Nghiệp,UPCOM,False,False,False,Bảo hiểm,Bảo hiểm phi nhân thọ
+ABC,Truyền thông VMG,UPCOM,False,False,False,Viễn thông,Viễn thông di động
+ABB,Ngân hàng An Bình,UPCOM,False,False,False,Ngân hàng,Ngân hàng
+AAV,Việt Tiên Sơn Địa ốc,HNX,False,False,False,Bất động sản,Bất động sản
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,HSX,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân
+AAS,Chứng khoán SmartInvest,UPCOM,False,False,False,Dịch vụ tài chính,Dịch vụ tài chính
+AAM,Thủy sản Mekong,HSX,False,False,False,Thực phẩm và đồ uống,Sản xuất thực phẩm
+AAH,Than Hợp Nhất,UPCOM,False,False,False,Tài nguyên Cơ bản,Khai khoáng
+AAA,An Phát Bioplastics,HSX,False,False,False,Hóa chất,Hóa chất
+A32,Công ty 32,UPCOM,False,False,False,Hàng cá nhân & Gia dụng,Hàng cá nhân

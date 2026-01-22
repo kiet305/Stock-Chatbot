@@ -1,0 +1,19 @@
+storage:
+  # Storage persistence path
+  storage_path: /qdrant/storage
+  # Optimize storage for SSDs (better for most cloud deployments)
+  optimizers:
+    default_segment_number: 2
+    memmap_threshold: 20000
+  # Enable WAL for better crash recovery
+  write_ahead_log: true
+
+service:
+  # REST API port
+  http_port: 6333
+  # gRPC port, used for high-performance data access
+  grpc_port: 6334
+
+telemetry:
+  # Disable telemetry if needed
+  enabled: false
