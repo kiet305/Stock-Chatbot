@@ -1,5 +1,4 @@
 from google.adk.agents import Agent
-from a2a.types import FilePart, FileWithUri
 from sqlalchemy import create_engine
 
 
@@ -10,16 +9,10 @@ load_dotenv()
 import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib
-import matplotlib.pyplot as plt
-import ta
 import re
 import mplfinance as mpf
 import uuid
 from pathlib import Path
-
-matplotlib.use("Agg")
-
 
 ##### 1. Momentum Analysis Tool #####
 def get_momentum(ticker: str) -> dict:
@@ -216,86 +209,6 @@ def get_volume(ticker: str) -> dict:
     except Exception as e:
         return {"status": "error", "error_message": str(e)}
 
-
-def plot_candlestick(
-    ticker: str,
-    period: str = "3mo",
-    sma_periods=(20, 50)
-) -> dict:
-    """
-    Generate candlestick chart with SMA and save as ADK artifact.
-    """
-
-    # =========================
-    # 1. Download data
-    # =========================
-    df = yf.download(
-        f"{ticker}.VN",
-        period=period,
-        interval="1d",
-        auto_adjust=False
-    )
-
-    if df.empty:
-        return {
-            "status": "error",
-            "error_message": f"No data for {ticker}.VN"
-        }
-
-    # Fix MultiIndex columns (yfinance issue)
-    if isinstance(df.columns, pd.MultiIndex):
-        df.columns = df.columns.get_level_values(0)
-
-    df = df[["Open", "High", "Low", "Close", "Volume"]]
-    df = df.apply(pd.to_numeric, errors="coerce")
-    df.dropna(inplace=True)
-
-    # =========================
-    # 2. SMA indicators
-    # =========================
-    add_plots = []
-    for p in sma_periods:
-        col = f"SMA_{p}"
-        df[col] = df["Close"].rolling(p).mean()
-        add_plots.append(
-            mpf.make_addplot(df[col], width=1.2, label=col)
-        )
-
-    # =========================
-    # 4. Plot & save
-    # =========================
-    fig, axes = mpf.plot(
-        df,
-        type="candle",
-        style="yahoo",
-        addplot=add_plots,
-        volume=True,
-        panel_ratios=(3, 1),
-        title=f"{ticker}.VN - Candlestick + SMA ({period})",
-        figsize=(14, 8),
-        returnfig=True
-    )
-
-    output_dir = Path("/app/.adk/artifacts")
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    output_path = output_dir / f"candlestick_{uuid.uuid4().hex}.png"
-
-    fig.savefig(output_path, dpi=150, bbox_inches="tight")
-    plt.close(fig)
-
-    # =========================
-    # 5. Return for ADK
-    # =========================
-    return [
-        FilePart(
-            file=FileWithUri(
-                uri=str(output_path),
-                mime_type="image/png"
-            )
-        )
-    ]
-
 # ----- KHUYẾN NGHỊ -----
 
 def suggest_ticker(
@@ -476,5 +389,5 @@ root_agent = Agent(
     name='technical_analysis',
     description='A helpful expert agent for performing stock technical analysis using various tools.',
     instruction=PROMPT,
-    tools=[get_answer, get_trend, get_momentum, get_volume, get_volatility, plot_candlestick, suggest_ticker],
+    tools=[get_answer, get_trend, get_momentum, get_volume, get_volatility, suggest_ticker],
 )

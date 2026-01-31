@@ -36,16 +36,16 @@ def get_a2a_routes(fqdn: str):
     # A2A Agent Skill definition
     skill = AgentSkill(
         id="market_search",
-        name="Market Search tool",
-        description="Does market searches and returns the results",
-        tags=["market search"],
-        examples=["Find me the latest stock prices of Apple", "Get me recent news on Tesla",'Find me economic updates related to technology companies'],
+        name="Market Search tool (prices and news)",
+        description="Does market searches and returns the results, espicially for news and prices of tickers, information relevant to prices like P/b, p/e, eps, bvps...",
+        tags=["market search",'price','price change','news','tin tức', 'giá của cổ phiếu', 'P/E', 'P/B', 'EPS'],
+        examples=['Get current price of ticker FPT',"Find me the latest stock prices of Apple", "Get me recent news on Tesla",'Find me economic updates related to technology companies'],
     )
 
     # A2A Agent Card definition
     agent_card = AgentCard(
-        name="Market Search Agent",
-        description="Does market searches on Postgres and Vietcap and returns the results",
+        name="Market Search Agent (prices and news)",
+        description="Does market searches (specialized for news, prices and information relevant to prices like P/e, p/b, eps, bvps) on Postgres and search real time at Google and returns the results",
         url=fqdn,
         version="1.0.0",
         defaultInputModes=["text"],

@@ -38,7 +38,7 @@ def get_a2a_routes(fqdn: str):
         id="technical_analysis",
         name="Technical Analysis Tool",
         description="Provides technical analysis of stocks using various indicators and plotting capabilities.",
-        tags=["analysis", "indicators","volume","trend","volatility","momentum","EMA","RSI","MACD","Plotting"],
+        tags=["analysis", "indicators","volume","trend","volatility","momentum","EMA","RSI","MACD"],
         examples=["Give me analysis of MBB stock aply indicators ?"],
     )
 

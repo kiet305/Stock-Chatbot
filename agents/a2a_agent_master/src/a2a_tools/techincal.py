@@ -22,7 +22,7 @@ class TechnicalAgent:
         self, user_message: str, tool_context: ToolContext
     ):
         """
-        You are a helpful technical agent that provides tickers that can be bought or sold at the moment based on SMA cross indicator or provides technical analysis of stocks using various indicators and plotting capabilities.
+        You are a helpful technical agent that provides tickers that can be bought or sold at the moment based on SMA cross indicator or provides technical analysis of stocks using various indicators
         
         Args:
             user_message: A question related to technical analysis of stocks (indicators) or ticker suggestion

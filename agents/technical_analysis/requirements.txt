@@ -5,5 +5,4 @@ ta
 mplfinance
 pandas
 numpy
-matplotlib
-sqlalchemy
+vnstock

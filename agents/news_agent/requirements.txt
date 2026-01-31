@@ -3,9 +3,5 @@ sqlalchemy
 psycopg2-binary
 google-adk==1.21.0
 a2a-sdk==0.2.16
-selenium
-beautifulsoup4
-webdriver-manager
 pandas
 numpy
-

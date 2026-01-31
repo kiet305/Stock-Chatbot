@@ -23,7 +23,7 @@ class CustomerServiceAgent:
     ):
         """
         A helpful customer service assistant help delegate tasks to other agents.
-        For searching related to stocks, finance, economics, and company information.
+        For searching related to stocks, finance, economics, and company information, also company metrics liek roa, roe, bvps, eps, nim, ros.
 
         Args:
             user_message: A question related to company or searching infomation about company or stocks, finance, economics
@@ -63,4 +63,3 @@ class CustomerServiceAgent:
             )
         except Exception as e:
             print(f"Error updating status: {e} ; You might be using adk-web where the task updater is not available")
-

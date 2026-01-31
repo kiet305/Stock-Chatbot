@@ -10,8 +10,8 @@ from a2a.types import (
     Part,
     TaskState,
     TextPart,
-    UnsupportedOperationError,
-)
+    UnsupportedOperationError
+    )
 from a2a.utils.errors import ServerError
 from a2a.types import (
     AgentCapabilities,
@@ -34,15 +34,34 @@ from src.a2a_tools.runtime_config import A2ARunConfig
 
 def get_a2a_routes(fqdn: str):
     # A2A Agent Skill definition
-    skill = AgentSkill(
-        id="a2a_agent_customer_service",
-        name="Task Delegation tool",
-        description="A helpful assistant help delegate tasks to agents that handle customer service (company information, economics, stocks, finance).",
-        tags=["agent task delegation"],
+    skill_1 = AgentSkill(
+        id="company_overview",
+        name="Search Company Detailed Information",
+        description=(
+            "Help users find detailed information about a company, including "
+            "company overview, business model, officers, major shareholders"
+        ),
+        tags=["company_info", "stock", "shareholder",'oficiers','company_overview'],
         examples=[
-            "Help me find the comany information of FPT","What is stock?", "Explain inflation?"
+            "Help me find company information of FPT",
+            "What FPT's Stock Exchange is?"
+            "Who are the board members of VNM?",
+            "Give me an overview of Vietcombank",
+            "List major shareholders of MBB"
         ],
     )
+
+    
+    skill_2 = AgentSkill(
+        id="simple_stock_overview",
+        name="Search simple stock, economic & finance infomation",
+        description="A helpful assistant help answer information, economics, stocks, finance",
+        tags=["stock",'economic','finance'],
+        examples=[
+            "What is stock?", "Explain inflation?"
+        ],
+    )
+    
 
     # A2A Agent Card definition
     agent_card = AgentCard(
@@ -53,7 +72,7 @@ def get_a2a_routes(fqdn: str):
         defaultInputModes=["text"],
         defaultOutputModes=["text"],
         capabilities=AgentCapabilities(streaming=True),
-        skills=[skill],
+        skills=[skill_1,skill_2],
     )
 
     # Create the ADK runner and executor.

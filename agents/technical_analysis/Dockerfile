@@ -1,11 +1,12 @@
-FROM python:3.13-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY agents/technical_analysis /app
-
+# Copy requirements trước để cache tốt + install đúng
+COPY requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Copy toàn bộ source sau
+COPY . /app
 
-# Giữ nguyên cấu trúc thư mục
-COPY agents/technical_analysis /app
+CMD ["python", "main.py"]
