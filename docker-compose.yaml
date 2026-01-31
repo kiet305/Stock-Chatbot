@@ -1,6 +1,4 @@
 services:
-  # ADK web app for development purposes only
-  # - This service builds the ADK web application and serves it on port 8080
   psql:
     image: postgres:15
     container_name: psql
@@ -39,7 +37,6 @@ services:
       "
     depends_on:
       - minio
-
   adk-apiserver:
     container_name: adk-apiserver
     build:
@@ -68,24 +65,6 @@ services:
       - ./agents/a2a_agent_master/:/app
     ports:
       - "127.0.0.1:8086:8086"
-
-  # # AGENTS - let's have some fun with agents!
-  agent-customer-support:
-    container_name: agent-customer-support
-    build:
-      context: .
-      dockerfile: agents/customer_service_agent/Dockerfile
-    working_dir: /app
-    entrypoint: ["python", "main.py"]
-    environment:
-      HOST: 0.0.0.0
-      PORT: 8083
-      WELL_KNOWN_HOST: agent-customer-support
-    volumes:
-      - ./agents/customer_service_agent/:/app
-    ports:
-      - "127.0.0.1:8083:8083"
-
   adk-web:
     container_name: adk-web
     build:
@@ -99,37 +78,6 @@ services:
       - ./agents/:/app/agents
     ports:
       - "127.0.0.1:8080:8080"
-
-  agent-sql-company-query:
-    container_name: agent-sql-company-query
-    build:
-      context: .
-      dockerfile: agents/company_search_agent/Dockerfile
-    working_dir: /app
-    entrypoint: ["python", "main.py"]
-    environment:
-      HOST: 0.0.0.0
-      PORT: 8084
-      WELL_KNOWN_HOST: agent-sql-company-query
-    volumes:
-      - ./agents/company_search_agent/:/app
-    ports:
-      - "127.0.0.1:8084:8084" 
-  agent-simple-stock-vector-db:
-      container_name: agent-simple-stock-vector-db
-      build:
-        context: .
-        dockerfile: agents/simple_stock_agent/Dockerfile
-      working_dir: /app
-      entrypoint: ["python", "main.py"]
-      environment:
-        HOST: 0.0.0.0
-        PORT: 8085
-        WELL_KNOWN_HOST: agent-simple-stock-vector-db
-      volumes:
-        - ./agents/simple_stock_agent/:/app
-      ports:
-        - "127.0.0.1:8085:8085"
   qdrant:
     image: qdrant/qdrant:latest
     restart: always
@@ -162,13 +110,57 @@ services:
       - ./agents/google_search/:/app
     ports:
       - "127.0.0.1:8087:8087"
+  
+  agent-technical-analysis:
+    container_name: agent-technical-analysis
+    build:
+      context: .
+      dockerfile: agents/technical_analysis/Dockerfile
+    working_dir: /app
+    entrypoint: ["python", "main.py"]
+    environment:
+      HOST: 0.0.0.0
+      PORT: 8036
+      WELL_KNOWN_HOST: agent-technical-analysis
+    volumes:
+      - ./agents/technical_analysis/:/app
+    ports:
+      - "127.0.0.1:8036:8036"
+
+  agent-market-search:
+    container_name: agent-market-search
+    build:
+      context: .
+      dockerfile: agents/news_agent/Dockerfile
+    working_dir: /app
+    entrypoint: ["python", "main.py"]
+    environment:
+      HOST: 0.0.0.0
+      PORT: 8089
+      WELL_KNOWN_HOST: agent-market-search
+    volumes:
+      - ./agents/news_agent/:/app
+    ports:
+      - "127.0.0.1:8089:8089"
+  
+  agent-customer-support:
+    container_name: agent-customer-support
+    build:
+      context: .
+      dockerfile: agents/customer_service_agent/Dockerfile
+    working_dir: /app
+    entrypoint: ["python", "main.py"]
+    environment:
+      HOST: 0.0.0.0
+      PORT: 8083
+      WELL_KNOWN_HOST: agent-customer-support
+    volumes:
+      - ./agents/customer_service_agent/:/app
+    ports:
+      - "127.0.0.1:8083:8083"
 
 configs:
   qdrant_config:
     content: |
       log_level: INFO
 
-networks:
-  de_network:
-    driver: bridge
-    name: de_network
